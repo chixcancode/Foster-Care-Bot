@@ -1,0 +1,9 @@
+C:\code\HHS.FosterCareBot\HHS.FosterCareBot\bin\Debug\netcoreapp2.0\BotConfiguration.bot
+C:\code\HHS.FosterCareBot\HHS.FosterCareBot\bin\Debug\netcoreapp2.0\HHS.FosterCareBot.deps.json
+C:\code\HHS.FosterCareBot\HHS.FosterCareBot\bin\Debug\netcoreapp2.0\HHS.FosterCareBot.runtimeconfig.json
+C:\code\HHS.FosterCareBot\HHS.FosterCareBot\bin\Debug\netcoreapp2.0\HHS.FosterCareBot.runtimeconfig.dev.json
+C:\code\HHS.FosterCareBot\HHS.FosterCareBot\bin\Debug\netcoreapp2.0\HHS.FosterCareBot.dll
+C:\code\HHS.FosterCareBot\HHS.FosterCareBot\obj\Debug\netcoreapp2.0\HHS.FosterCareBot.csprojAssemblyReference.cache
+C:\code\HHS.FosterCareBot\HHS.FosterCareBot\obj\Debug\netcoreapp2.0\HHS.FosterCareBot.csproj.CoreCompileInputs.cache
+C:\code\HHS.FosterCareBot\HHS.FosterCareBot\obj\Debug\netcoreapp2.0\HHS.FosterCareBot.AssemblyInfoInputs.cache
+C:\code\HHS.FosterCareBot\HHS.FosterCareBot\obj\Debug\netcoreapp2.0\HHS.FosterCareBot.AssemblyInfo.cs

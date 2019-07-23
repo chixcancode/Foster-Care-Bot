@@ -1,0 +1,7 @@
+Utterance	Intents
+hello	None, q_Foster Care QnA
+bye	l_Child Welfare LUIS, q_Foster Care QnA
+hiya	None, q_Foster Care QnA
+thanks	None, q_Foster Care QnA
+hola	None, q_Foster Care QnA
+thank you	None, q_Foster Care QnA

@@ -1,0 +1,43 @@
+{
+    "name": "HHS.FosterCareBot",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "name": "development",
+            "endpoint": "http://localhost:3978/api/messages",
+            "appId": "",
+            "appPassword": "",
+            "id": "1"
+        },
+        {
+            "type": "luis",
+            "name": "Child Welfare LUIS",
+            "appId": "a8407ee2-4acb-4912-a99d-cd47129dbd70",
+            "version": "0.1",
+            "authoringKey": "04633bfab6fa466d9a5f512d5306ae78",
+            "region": "westus",
+            "id": "130"
+        },
+        {
+            "type": "qna",
+            "name": "QnA Sauce",
+            "kbId": "f456c53d-9bd7-4a79-9249-79b32ab52a18",
+            "subscriptionKey": "aad8a3b0d8b24a409c6de3336e4b00ef",
+            "endpointKey": "6fcd0120-72fa-43fa-bbf3-76504433035c",
+            "hostname": "https://fostercareqna.azurewebsites.net/qnamaker",
+            "id": "196"
+        },
+        {
+            "type": "qna",
+            "name": "Foster Care QnA",
+            "kbId": "f456c53d-9bd7-4a79-9249-79b32ab52a18",
+            "subscriptionKey": "aad8a3b0d8b24a409c6de3336e4b00ef",
+            "endpointKey": "6fcd0120-72fa-43fa-bbf3-76504433035c",
+            "hostname": "https://fostercareqna.azurewebsites.net/qnamaker",
+            "id": "177"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0"
+}

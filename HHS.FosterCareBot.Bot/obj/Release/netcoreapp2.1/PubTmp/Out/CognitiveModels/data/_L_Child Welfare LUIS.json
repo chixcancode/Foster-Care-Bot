@@ -1,0 +1,494 @@
+{
+  "luis_schema_version": "3.1.0",
+  "versionId": "0.1",
+  "name": "Child Welfare LUIS",
+  "desc": "",
+  "culture": "en-us",
+  "intents": [
+    {
+      "name": "FindClothingDonationLocations"
+    },
+    {
+      "name": "GetCalendarAppointments"
+    },
+    {
+      "name": "GetChildCareProviders"
+    },
+    {
+      "name": "GetUpcomingCourtDates"
+    },
+    {
+      "name": "GetWICLocations"
+    },
+    {
+      "name": "Goodbye"
+    },
+    {
+      "name": "None"
+    }
+  ],
+  "entities": [
+    {
+      "name": "Foster Parent",
+      "roles": []
+    },
+    {
+      "name": "Providers",
+      "roles": []
+    }
+  ],
+  "composites": [],
+  "closedLists": [],
+  "patternAnyEntities": [],
+  "regex_entities": [],
+  "prebuiltEntities": [
+    {
+      "name": "datetimeV2",
+      "roles": []
+    },
+    {
+      "name": "geography",
+      "roles": []
+    }
+  ],
+  "model_features": [
+    {
+      "name": "Dayofweek",
+      "mode": true,
+      "words": "monday,tuesday,wednesday",
+      "activated": true
+    }
+  ],
+  "regex_features": [],
+  "patterns": [],
+  "utterances": [
+    {
+      "text": "3. do i get to choose the foster child for my home?",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "are foster care payments taxable?",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "are there approved child care providers near me?",
+      "intent": "GetChildCareProviders",
+      "entities": []
+    },
+    {
+      "text": "are there upcoming court dates for jane",
+      "intent": "GetUpcomingCourtDates",
+      "entities": [
+        {
+          "entity": "Foster Parent",
+          "startPos": 35,
+          "endPos": 38
+        }
+      ]
+    },
+    {
+      "text": "are wic services free",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "bye",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "can you find my court dates",
+      "intent": "GetUpcomingCourtDates",
+      "entities": []
+    },
+    {
+      "text": "can you get my appointments?",
+      "intent": "GetUpcomingCourtDates",
+      "entities": []
+    },
+    {
+      "text": "can you get my upcoming court dates?",
+      "intent": "GetUpcomingCourtDates",
+      "entities": []
+    },
+    {
+      "text": "can you give me a list of upcoming court dates",
+      "intent": "GetUpcomingCourtDates",
+      "entities": []
+    },
+    {
+      "text": "can you give me my upcoming court dates",
+      "intent": "GetUpcomingCourtDates",
+      "entities": []
+    },
+    {
+      "text": "do i have any court dates",
+      "intent": "GetUpcomingCourtDates",
+      "entities": []
+    },
+    {
+      "text": "do i have any upcoming appointments?",
+      "intent": "GetUpcomingCourtDates",
+      "entities": []
+    },
+    {
+      "text": "do i have any upcoming court dates",
+      "intent": "GetUpcomingCourtDates",
+      "entities": []
+    },
+    {
+      "text": "do i have anything for thursday?",
+      "intent": "GetCalendarAppointments",
+      "entities": []
+    },
+    {
+      "text": "do i have to pay for child care?",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "do i have upcoming court date",
+      "intent": "GetUpcomingCourtDates",
+      "entities": []
+    },
+    {
+      "text": "do i need to count the foster care income i receive?",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "find a child care provider",
+      "intent": "GetChildCareProviders",
+      "entities": []
+    },
+    {
+      "text": "find child care providers in chicago",
+      "intent": "GetChildCareProviders",
+      "entities": []
+    },
+    {
+      "text": "find child provider",
+      "intent": "GetChildCareProviders",
+      "entities": []
+    },
+    {
+      "text": "find child providers",
+      "intent": "GetChildCareProviders",
+      "entities": []
+    },
+    {
+      "text": "find places to swap or donate clothes",
+      "intent": "FindClothingDonationLocations",
+      "entities": []
+    },
+    {
+      "text": "find providers",
+      "intent": "GetChildCareProviders",
+      "entities": []
+    },
+    {
+      "text": "find upcoming court dates for jane",
+      "intent": "GetUpcomingCourtDates",
+      "entities": [
+        {
+          "entity": "Foster Parent",
+          "startPos": 30,
+          "endPos": 33
+        }
+      ]
+    },
+    {
+      "text": "get child care providers",
+      "intent": "GetChildCareProviders",
+      "entities": [
+        {
+          "entity": "Providers",
+          "startPos": 4,
+          "endPos": 23
+        }
+      ]
+    },
+    {
+      "text": "get child providers in chicago",
+      "intent": "GetChildCareProviders",
+      "entities": [
+        {
+          "entity": "Providers",
+          "startPos": 4,
+          "endPos": 18
+        }
+      ]
+    },
+    {
+      "text": "get upcoming court dates",
+      "intent": "GetUpcomingCourtDates",
+      "entities": []
+    },
+    {
+      "text": "get upcoming court dates for jane",
+      "intent": "GetUpcomingCourtDates",
+      "entities": [
+        {
+          "entity": "Foster Parent",
+          "startPos": 29,
+          "endPos": 32
+        }
+      ]
+    },
+    {
+      "text": "gobbbledy gook",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "goodbye",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "hello",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "hey",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "hiya",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "hola",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "how do i become a foster parent?",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "how do i become a licensed foster care provider?",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "how do i find child care",
+      "intent": "GetChildCareProviders",
+      "entities": []
+    },
+    {
+      "text": "i am looking for child care providers in chicago",
+      "intent": "GetChildCareProviders",
+      "entities": [
+        {
+          "entity": "Providers",
+          "startPos": 17,
+          "endPos": 36
+        }
+      ]
+    },
+    {
+      "text": "i cant remember my court date. can you give me my court date",
+      "intent": "GetUpcomingCourtDates",
+      "entities": []
+    },
+    {
+      "text": "i have a court hearing coming up and i am wondering if it is important for me to attend",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "i have a court hearing coming up and i was wondering is it important that i attend?",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "i have a court hearing coming up and was wondering was it important for me to attend?",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "i have an upcoming court hearing and i was wondering is it important that i attend?",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "i have any upcoming court date",
+      "intent": "GetUpcomingCourtDates",
+      "entities": []
+    },
+    {
+      "text": "i need a list of wic locations",
+      "intent": "GetWICLocations",
+      "entities": []
+    },
+    {
+      "text": "i need someone to watch kids",
+      "intent": "GetChildCareProviders",
+      "entities": []
+    },
+    {
+      "text": "i need to find a dmv",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "i need to find places to donate clothes",
+      "intent": "FindClothingDonationLocations",
+      "entities": []
+    },
+    {
+      "text": "i need wic locations",
+      "intent": "GetWICLocations",
+      "entities": []
+    },
+    {
+      "text": "i realize that i have an upcoming court date. is it important that i attend?",
+      "intent": "GetUpcomingCourtDates",
+      "entities": []
+    },
+    {
+      "text": "i'm looking for child care providers",
+      "intent": "GetChildCareProviders",
+      "entities": [
+        {
+          "entity": "Providers",
+          "startPos": 16,
+          "endPos": 35
+        }
+      ]
+    },
+    {
+      "text": "i'm looking for dmv locations",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "i'm looking for wic locations",
+      "intent": "GetWICLocations",
+      "entities": []
+    },
+    {
+      "text": "i'm looking for wic locations in 20876",
+      "intent": "GetWICLocations",
+      "entities": []
+    },
+    {
+      "text": "is it important to attend court hearings?",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "see ya",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "see ya later",
+      "intent": "Goodbye",
+      "entities": []
+    },
+    {
+      "text": "should i attend my upcoming court date",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "should i attend my upcoming court date?",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "should i count foster care in my income taxes",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "thank you",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "thanks",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "thanks so much",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "what are my appointment for today",
+      "intent": "GetCalendarAppointments",
+      "entities": []
+    },
+    {
+      "text": "what are my appointments for today?",
+      "intent": "GetCalendarAppointments",
+      "entities": []
+    },
+    {
+      "text": "what do i have for thursday",
+      "intent": "GetCalendarAppointments",
+      "entities": []
+    },
+    {
+      "text": "what do i have for tomorrow?",
+      "intent": "GetCalendarAppointments",
+      "entities": []
+    },
+    {
+      "text": "what do i have planned for march 13th",
+      "intent": "GetCalendarAppointments",
+      "entities": []
+    },
+    {
+      "text": "what do i have planned for tuesday",
+      "intent": "GetCalendarAppointments",
+      "entities": []
+    },
+    {
+      "text": "what do i need to do to prepare myself for home visit?",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "what does my calendar look like for today?",
+      "intent": "GetCalendarAppointments",
+      "entities": []
+    },
+    {
+      "text": "what is wic",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "what's going on tomorrow?",
+      "intent": "GetCalendarAppointments",
+      "entities": []
+    },
+    {
+      "text": "where are dmv locations near me",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "where are wic offices",
+      "intent": "GetWICLocations",
+      "entities": []
+    },
+    {
+      "text": "why is sky blue?",
+      "intent": "None",
+      "entities": []
+    }
+  ],
+  "settings": []
+}

@@ -1,0 +1,163 @@
+Label	Weight	Text
+l_Child Welfare LUIS	56.2	what are my appointments for today?
+l_Child Welfare LUIS	56.2	find child provider
+l_Child Welfare LUIS	56.2	find providers
+l_Child Welfare LUIS	56.2	get upcoming court dates
+l_Child Welfare LUIS	56.2	i need someone to watch kids
+l_Child Welfare LUIS	56.2	are there upcoming court dates for jane
+l_Child Welfare LUIS	56.2	find child care providers in chicago
+l_Child Welfare LUIS	56.2	do i have anything for thursday?
+l_Child Welfare LUIS	56.2	i realize that i have an upcoming court date. is it important that i attend?
+l_Child Welfare LUIS	56.2	how do i find child care
+None	46.83333	how do i become a foster parent?
+None	46.83333	should i count foster care in my income taxes
+None	46.83333	i have an upcoming court hearing and i was wondering is it important that i attend?
+None	46.83333	hiya
+None	46.83333	are wic services free
+None	46.83333	thank you
+None	46.83333	how do i become a foster parent?
+None	46.83333	should i count foster care in my income taxes
+None	46.83333	i have an upcoming court hearing and i was wondering is it important that i attend?
+None	46.83333	hiya
+None	46.83333	are wic services free
+None	46.83333	thank you
+q_Foster Care QnA	3.985816	That's true
+q_Foster Care QnA	3.985816	Who's your dad?
+q_Foster Care QnA	3.985816	You're so smart
+q_Foster Care QnA	3.985816	Sing something
+q_Foster Care QnA	3.985816	Where is the Arkansas child welfare office?
+q_Foster Care QnA	3.985816	How was your day?
+q_Foster Care QnA	3.985816	Are you human?
+q_Foster Care QnA	3.985816	Can you make me a sandwich?
+q_Foster Care QnA	3.985816	Do I get to choose the foster child for my home?
+q_Foster Care QnA	3.985816	Be more fun
+q_Foster Care QnA	3.985816	You're a fuckup
+q_Foster Care QnA	3.985816	What if a child needs constant care or supervision?
+q_Foster Care QnA	3.985816	Nighty night
+q_Foster Care QnA	3.985816	What color do you like?
+q_Foster Care QnA	3.985816	How happy are you?
+q_Foster Care QnA	3.985816	How beautiful am i?
+q_Foster Care QnA	3.985816	Are you my assistant?
+q_Foster Care QnA	3.985816	I want you to like me
+q_Foster Care QnA	3.985816	I miss you so much!
+q_Foster Care QnA	3.985816	Can you play sports?
+q_Foster Care QnA	3.985816	Do you play games?
+q_Foster Care QnA	3.985816	Kthx
+q_Foster Care QnA	3.985816	Why is that?
+q_Foster Care QnA	3.985816	When will you shut up?
+q_Foster Care QnA	3.985816	What's my name?
+q_Foster Care QnA	3.985816	Aren't you awesome?
+q_Foster Care QnA	3.985816	What do you think about me?
+q_Foster Care QnA	3.985816	I'm not following
+q_Foster Care QnA	3.985816	You seem happy
+q_Foster Care QnA	3.985816	Give me a high five
+q_Foster Care QnA	3.985816	Are you happy?
+q_Foster Care QnA	3.985816	Will you be my wife?
+q_Foster Care QnA	3.985816	What do you do?
+q_Foster Care QnA	3.985816	Are you really happy?
+q_Foster Care QnA	3.985816	I am doing that
+q_Foster Care QnA	3.985816	Where do you live?
+q_Foster Care QnA	3.985816	What is a guardian?
+q_Foster Care QnA	3.985816	How do you feel about working late?
+q_Foster Care QnA	3.985816	You're very intelligent
+q_Foster Care QnA	7.971631	Why are you so boring
+q_Foster Care QnA	3.985816	How high can you count?
+q_Foster Care QnA	3.985816	Say a silly thing
+q_Foster Care QnA	3.985816	You're stupid
+q_Foster Care QnA	3.985816	Which people made you?
+q_Foster Care QnA	3.985816	Good morning
+q_Foster Care QnA	3.985816	What makes you think that?
+q_Foster Care QnA	3.985816	Are you old?
+q_Foster Care QnA	3.985816	Why not?
+q_Foster Care QnA	3.985816	I wish you would say something else
+q_Foster Care QnA	3.985816	Do you prefer red or blue?
+q_Foster Care QnA	3.985816	You don't interest me at all
+q_Foster Care QnA	3.985816	Do you have any other responses?
+q_Foster Care QnA	3.985816	I want to eat something
+q_Foster Care QnA	3.985816	Where should I go on vacation?
+q_Foster Care QnA	3.985816	What's new?
+q_Foster Care QnA	3.985816	What do you think about bots?
+q_Foster Care QnA	3.985816	What are you doing later?
+q_Foster Care QnA	3.985816	Do you sweat?
+q_Foster Care QnA	3.985816	I want to go shopping
+q_Foster Care QnA	3.985816	Evening
+q_Foster Care QnA	3.985816	I love getting valentines.
+q_Foster Care QnA	3.985816	Are you pansexual?
+q_Foster Care QnA	3.985816	Are you in love with me?
+q_Foster Care QnA	3.985816	I'm in such a good mood
+q_Foster Care QnA	3.985816	You don't know anything.
+q_Foster Care QnA	3.985816	Hi Siri
+q_Foster Care QnA	3.985816	Will I have to work with the child's parent?
+q_Foster Care QnA	3.985816	You're not making sense
+q_Foster Care QnA	3.985816	That was right
+q_Foster Care QnA	3.985816	Is it important that I attend court hearings
+q_Foster Care QnA	3.985816	Happy Hannukah
+q_Foster Care QnA	3.985816	What's wrong with you?
+q_Foster Care QnA	3.985816	What were you doing yesterday?
+q_Foster Care QnA	3.985816	I'm just kidding around
+q_Foster Care QnA	3.985816	Be silly
+q_Foster Care QnA	3.985816	I'm joyous
+q_Foster Care QnA	3.985816	I'm ready for bed
+q_Foster Care QnA	3.985816	I can drive a car
+q_Foster Care QnA	3.985816	That's not accurate
+q_Foster Care QnA	3.985816	You're lame
+q_Foster Care QnA	3.985816	ROFL
+q_Foster Care QnA	3.985816	What's your favorite food?
+q_Foster Care QnA	3.985816	How much do you love me?
+q_Foster Care QnA	3.985816	Do you get hungry?
+q_Foster Care QnA	3.985816	Do you have a brother?
+q_Foster Care QnA	3.985816	Do I need to keep my house neat for visit?
+q_Foster Care QnA	3.985816	Are you prettier than me?
+q_Foster Care QnA	3.985816	Are you Skynet?
+q_Foster Care QnA	3.985816	Are you my imaginary friend?
+q_Foster Care QnA	3.985816	Who's your master?
+q_Foster Care QnA	3.985816	I'm ticked off
+q_Foster Care QnA	3.985816	Am I pretty?
+q_Foster Care QnA	3.985816	Do you spend time in your garden?
+q_Foster Care QnA	3.985816	Till we meet again
+q_Foster Care QnA	3.985816	Will a social worker be assigned to assist?
+q_Foster Care QnA	3.985816	Pardon me
+q_Foster Care QnA	3.985816	Say something
+q_Foster Care QnA	3.985816	You are the love of my life
+q_Foster Care QnA	3.985816	What's going on?
+q_Foster Care QnA	3.985816	What did you do yesterday?
+q_Foster Care QnA	3.985816	Where are you from?
+q_Foster Care QnA	3.985816	Do I look okay?
+q_Foster Care QnA	3.985816	I am tired
+q_Foster Care QnA	3.985816	What country are you from?
+q_Foster Care QnA	3.985816	Are you my fan?
+q_Foster Care QnA	3.985816	Give me some sugar
+q_Foster Care QnA	3.985816	What's the meaning of life?
+q_Foster Care QnA	3.985816	That's not true.
+q_Foster Care QnA	3.985816	Thanks
+q_Foster Care QnA	3.985816	I will be back
+q_Foster Care QnA	3.985816	You are so bad at this.
+q_Foster Care QnA	3.985816	That's so wrong.
+q_Foster Care QnA	3.985816	Sounds good
+q_Foster Care QnA	3.985816	Are you a swinger?
+q_Foster Care QnA	3.985816	What should I call you?
+q_Foster Care QnA	3.985816	What kinds of things can you do?
+q_Foster Care QnA	3.985816	Is there child care assistance available for foster care parents?
+q_Foster Care QnA	3.985816	What do you go by?
+q_Foster Care QnA	3.985816	Do you know Alexa?
+q_Foster Care QnA	3.985816	Yup, that's true
+q_Foster Care QnA	3.985816	You're so boring
+q_Foster Care QnA	3.985816	I am going on a run
+q_Foster Care QnA	3.985816	Nobody cares about me
+q_Foster Care QnA	3.985816	Do you like me?
+q_Foster Care QnA	3.985816	Do you like apples?
+q_Foster Care QnA	3.985816	Do you like my hat?
+q_Foster Care QnA	3.985816	Do you have boogers?
+q_Foster Care QnA	3.985816	Do you have a name?
+q_Foster Care QnA	3.985816	Are you straight?
+q_Foster Care QnA	3.985816	Later alligator
+q_Foster Care QnA	3.985816	How are you doing?
+q_Foster Care QnA	3.985816	Why are there home visits?
+q_Foster Care QnA	3.985816	You're an asshole
+q_Foster Care QnA	3.985816	Awesome
+q_Foster Care QnA	3.985816	What's your favorite color?
+q_Foster Care QnA	3.985816	You're so stupid
+q_Foster Care QnA	3.985816	Are you young?
+q_Foster Care QnA	3.985816	Where's your house?
+q_Foster Care QnA	3.985816	You're fired!
+q_Foster Care QnA	3.985816	Welcome to springtime!

@@ -1,0 +1,57 @@
+{
+    "name": "HHS.FosterCareBot",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "name": "development",
+            "endpoint": "http://localhost:3978/api/messages",
+            "appId": "",
+            "appPassword": "",
+            "id": "1"
+        },
+      {
+        "type": "qna",
+        "name": "Foster Care QnA",
+        "kbId": "f456c53d-9bd7-4a79-9249-79b32ab52a18",
+        "subscriptionKey": "aad8a3b0d8b24a409c6de3336e4b00ef",
+        "endpointKey": "6fcd0120-72fa-43fa-bbf3-76504433035c",
+        "hostname": "https://fostercareqna.azurewebsites.net/qnamaker",
+        "id": "177"
+      },
+      {
+        "type": "luis",
+        "name": "Child Welfare LUIS",
+        "appId": "a8407ee2-4acb-4912-a99d-cd47129dbd70",
+        "version": "0.1",
+        "authoringKey": "04633bfab6fa466d9a5f512d5306ae78",
+        "subscriptionKey": "0c44f3b4f12c4f9b883510dc5c539e40",
+        "region": "westus",
+        "id": "98"
+      },
+      {
+        "type": "dispatch",
+        "name": "FosterCareDispatch",
+        "appId": "f20b2b53-ee49-4be7-bb94-8b5e27e60dfb",
+        "authoringKey": "04633bfab6fa466d9a5f512d5306ae78",
+        "subscriptionKey": "ee799e03cbdf4efc9a525f0528d41c39",
+        "version": "Dispatch",
+        "region": "westus",
+        "serviceIds": [
+          "177",
+          "98"
+        ],
+        "id": "130"
+      },
+      {
+        "type": "endpoint",
+        "name": "production",
+        "appId": "7f21c577-4e2f-42b9-846e-c659b26ca270",
+        "appPassword": "QwwB53_|~zezjvJIJQLQ789%",
+        "endpoint": "https://fostercarebot.azurewebsites.net/api/messages",
+        "id": "161"
+      }
+    ],
+    "padlock": "",
+    "version": "2.0"
+}

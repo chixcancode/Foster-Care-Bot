@@ -1,0 +1,3866 @@
+{
+  "luis_schema_version": "3.0.0",
+  "versionId": "Dispatch",
+  "name": "FosterCareDispatch",
+  "desc": "Dispatch model for FosterCareDispatch",
+  "culture": "en-us",
+  "intents": [
+    {
+      "name": "l_Child Welfare LUIS"
+    },
+    {
+      "name": "q_Foster Care QnA"
+    },
+    {
+      "name": "None"
+    }
+  ],
+  "entities": [],
+  "composites": [],
+  "closedLists": [],
+  "patternAnyEntities": [],
+  "regex_entities": [],
+  "prebuiltEntities": [],
+  "model_features": [
+    {
+      "name": "i_0",
+      "mode": true,
+      "words": "monday,tuesday,wednesday",
+      "activated": true
+    }
+  ],
+  "regex_features": [],
+  "patterns": [],
+  "utterances": [
+    {
+      "text": "what are my appointments for today?",
+      "intent": "l_Child Welfare LUIS",
+      "entities": []
+    },
+    {
+      "text": "find child provider",
+      "intent": "l_Child Welfare LUIS",
+      "entities": []
+    },
+    {
+      "text": "find providers",
+      "intent": "l_Child Welfare LUIS",
+      "entities": []
+    },
+    {
+      "text": "get upcoming court dates",
+      "intent": "l_Child Welfare LUIS",
+      "entities": []
+    },
+    {
+      "text": "i need someone to watch kids",
+      "intent": "l_Child Welfare LUIS",
+      "entities": []
+    },
+    {
+      "text": "are there upcoming court dates for jane",
+      "intent": "l_Child Welfare LUIS",
+      "entities": []
+    },
+    {
+      "text": "find child care providers in chicago",
+      "intent": "l_Child Welfare LUIS",
+      "entities": []
+    },
+    {
+      "text": "do i have anything for thursday?",
+      "intent": "l_Child Welfare LUIS",
+      "entities": []
+    },
+    {
+      "text": "i realize that i have an upcoming court date. is it important that i attend?",
+      "intent": "l_Child Welfare LUIS",
+      "entities": []
+    },
+    {
+      "text": "how do i find child care",
+      "intent": "l_Child Welfare LUIS",
+      "entities": []
+    },
+    {
+      "text": "i am looking for child care providers in chicago",
+      "intent": "l_Child Welfare LUIS",
+      "entities": []
+    },
+    {
+      "text": "do i have any court dates",
+      "intent": "l_Child Welfare LUIS",
+      "entities": []
+    },
+    {
+      "text": "are there approved child care providers near me?",
+      "intent": "l_Child Welfare LUIS",
+      "entities": []
+    },
+    {
+      "text": "i need to find places to donate clothes",
+      "intent": "l_Child Welfare LUIS",
+      "entities": []
+    },
+    {
+      "text": "do i have any upcoming appointments?",
+      "intent": "l_Child Welfare LUIS",
+      "entities": []
+    },
+    {
+      "text": "see ya later",
+      "intent": "l_Child Welfare LUIS",
+      "entities": []
+    },
+    {
+      "text": "do i have upcoming court date",
+      "intent": "l_Child Welfare LUIS",
+      "entities": []
+    },
+    {
+      "text": "i'm looking for wic locations in 20876",
+      "intent": "l_Child Welfare LUIS",
+      "entities": []
+    },
+    {
+      "text": "i need a list of wic locations",
+      "intent": "l_Child Welfare LUIS",
+      "entities": []
+    },
+    {
+      "text": "get child care providers",
+      "intent": "l_Child Welfare LUIS",
+      "entities": []
+    },
+    {
+      "text": "what are my appointment for today",
+      "intent": "l_Child Welfare LUIS",
+      "entities": []
+    },
+    {
+      "text": "i need wic locations",
+      "intent": "l_Child Welfare LUIS",
+      "entities": []
+    },
+    {
+      "text": "what's going on tomorrow?",
+      "intent": "l_Child Welfare LUIS",
+      "entities": []
+    },
+    {
+      "text": "can you find my court dates",
+      "intent": "l_Child Welfare LUIS",
+      "entities": []
+    },
+    {
+      "text": "what do i have for tomorrow?",
+      "intent": "l_Child Welfare LUIS",
+      "entities": []
+    },
+    {
+      "text": "where are wic offices",
+      "intent": "l_Child Welfare LUIS",
+      "entities": []
+    },
+    {
+      "text": "i have any upcoming court date",
+      "intent": "l_Child Welfare LUIS",
+      "entities": []
+    },
+    {
+      "text": "what does my calendar look like for today?",
+      "intent": "l_Child Welfare LUIS",
+      "entities": []
+    },
+    {
+      "text": "get upcoming court dates for jane",
+      "intent": "l_Child Welfare LUIS",
+      "entities": []
+    },
+    {
+      "text": "find places to swap or donate clothes",
+      "intent": "l_Child Welfare LUIS",
+      "entities": []
+    },
+    {
+      "text": "find child providers",
+      "intent": "l_Child Welfare LUIS",
+      "entities": []
+    },
+    {
+      "text": "can you give me a list of upcoming court dates",
+      "intent": "l_Child Welfare LUIS",
+      "entities": []
+    },
+    {
+      "text": "what do i have planned for march 13th",
+      "intent": "l_Child Welfare LUIS",
+      "entities": []
+    },
+    {
+      "text": "i'm looking for wic locations",
+      "intent": "l_Child Welfare LUIS",
+      "entities": []
+    },
+    {
+      "text": "i'm looking for child care providers",
+      "intent": "l_Child Welfare LUIS",
+      "entities": []
+    },
+    {
+      "text": "goodbye",
+      "intent": "l_Child Welfare LUIS",
+      "entities": []
+    },
+    {
+      "text": "can you get my appointments?",
+      "intent": "l_Child Welfare LUIS",
+      "entities": []
+    },
+    {
+      "text": "find upcoming court dates for jane",
+      "intent": "l_Child Welfare LUIS",
+      "entities": []
+    },
+    {
+      "text": "can you give me my upcoming court dates",
+      "intent": "l_Child Welfare LUIS",
+      "entities": []
+    },
+    {
+      "text": "what do i have for thursday",
+      "intent": "l_Child Welfare LUIS",
+      "entities": []
+    },
+    {
+      "text": "can you get my upcoming court dates?",
+      "intent": "l_Child Welfare LUIS",
+      "entities": []
+    },
+    {
+      "text": "bye",
+      "intent": "l_Child Welfare LUIS",
+      "entities": []
+    },
+    {
+      "text": "do i have any upcoming court dates",
+      "intent": "l_Child Welfare LUIS",
+      "entities": []
+    },
+    {
+      "text": "what do i have planned for tuesday",
+      "intent": "l_Child Welfare LUIS",
+      "entities": []
+    },
+    {
+      "text": "get child providers in chicago",
+      "intent": "l_Child Welfare LUIS",
+      "entities": []
+    },
+    {
+      "text": "find a child care provider",
+      "intent": "l_Child Welfare LUIS",
+      "entities": []
+    },
+    {
+      "text": "i cant remember my court date. can you give me my court date",
+      "intent": "l_Child Welfare LUIS",
+      "entities": []
+    },
+    {
+      "text": "see ya",
+      "intent": "l_Child Welfare LUIS",
+      "entities": []
+    },
+    {
+      "text": "that's true",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "who's your dad?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you're so smart",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "sing something",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "where is the arkansas child welfare office?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "how was your day?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "are you human?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "can you make me a sandwich?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do i get to choose the foster child for my home?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "be more fun",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you're a fuckup",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what if a child needs constant care or supervision?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "nighty night",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what color do you like?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "how happy are you?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "how beautiful am i?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "are you my assistant?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i want you to like me",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i miss you so much!",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "can you play sports?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do you play games?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "kthx",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "why is that?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "when will you shut up?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what's my name?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "aren't you awesome?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what do you think about me?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i'm not following",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you seem happy",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "give me a high five",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "are you happy?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "will you be my wife?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what do you do?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "are you really happy?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i am doing that",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "where do you live?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what is a guardian?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "how do you feel about working late?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you're very intelligent",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "why are you so boring",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "how high can you count?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "say a silly thing",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you're stupid",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "which people made you?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "good morning",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what makes you think that?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "are you old?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "why not?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i wish you would say something else",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do you prefer red or blue?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you don't interest me at all",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do you have any other responses?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i want to eat something",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "where should i go on vacation?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what's new?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what do you think about bots?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what are you doing later?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do you sweat?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i want to go shopping",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "evening",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i love getting valentines.",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "are you pansexual?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "are you in love with me?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i'm in such a good mood",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you don't know anything.",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "hi siri",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "will i have to work with the child's parent?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you're not making sense",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "that was right",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "is it important that i attend court hearings",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "happy hannukah",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what's wrong with you?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what were you doing yesterday?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i'm just kidding around",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "be silly",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i'm joyous",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i'm ready for bed",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i can drive a car",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "that's not accurate",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you're lame",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "rofl",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what's your favorite food?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "how much do you love me?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do you get hungry?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do you have a brother?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do i need to keep my house neat for visit?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "are you prettier than me?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "are you skynet?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "are you my imaginary friend?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "who's your master?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i'm ticked off",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "am i pretty?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do you spend time in your garden?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "till we meet again",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "will a social worker be assigned to assist?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "pardon me",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "say something",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you are the love of my life",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what's going on?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what did you do yesterday?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "where are you from?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do i look okay?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i am tired",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what country are you from?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "are you my fan?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "give me some sugar",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what's the meaning of life?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "that's not true.",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "thanks",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i will be back",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you are so bad at this.",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "that's so wrong.",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "sounds good",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "are you a swinger?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what should i call you?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what kinds of things can you do?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "is there child care assistance available for foster care parents?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what do you go by?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do you know alexa?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "yup, that's true",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you're so boring",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i am going on a run",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "nobody cares about me",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do you like me?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do you like apples?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do you like my hat?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do you have boogers?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do you have a name?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "are you straight?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "later alligator",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "how are you doing?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "why are there home visits?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you're an asshole",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "awesome",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what's your favorite color?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you're so stupid",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "are you young?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "where's your house?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you're fired!",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "welcome to springtime!",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you face sucks.",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you're boring",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you suck",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "that's hilarious",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you are my best friend",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "am i a good person?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you're awful",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "hum a tune",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what's your purpose?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "why is sky blue?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you must hate me.",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "that made no sense",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "who are you?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "how do i look today?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "go away",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do you eat?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "yes, that's true",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i just want to go to sleep",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do i have to claim foster care payments?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "back in a minute",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what is the purpose of a home visit?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "bffs forever?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what do i do if there is an emergency?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i want to spend the rest of my life with you",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what's your dad's name?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i'm furious",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "are there training requirements for foster care parents?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do you know who i am?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what's your favorite animal?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "are you available?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "\"as a foster parent, can i still work outside of my home?\"",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i want to lie down",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "fuck off",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i think you're so pretty",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "works for me",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what are you up to?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "when were you born?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you're gonna be unemployed soon",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "pardon",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i'm from there",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "getting tired of you",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i feel sad",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "that's accurate",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "who's your favorite team?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "who's your favorite singer?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "are you male or female?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "shut up",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "are you hungry?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "quiet, you",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "are you awesome?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "hi alexa",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do you know any jokes?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what's your favorite song?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you are so not pretty.",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "hug me",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i'm so sorry",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you're really smart",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you're such a smarty-pants",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i am angry",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what do you think about ai?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do you and cortana hang out?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "how often are home visits?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do you have a mom?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "are you a lesbian?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i feel so great",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "are you a fan of tech?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "can you help me?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i'm a fan.",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "are you gay?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what did you do today?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "sorry about that",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do you smell?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i am not your friend",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do you not like me?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you're a butterface.",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "joke's on you",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do you think you're smarter than me?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "can you ask me a question?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "hold on a sec",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you are useless",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "am i good-looking?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "are you a robot?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "see you later",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "are you dumb?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what do you think about technology?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what other bots do you know?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i love new york.",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "how long will the foster children remain in my care?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you are a genius!",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "should i clean my house?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "are you spying on me",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "be funny",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "are you intelligent?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do i need to own my own home before i can become a licensed foster care parent?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what do you mean?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "how smart are you?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "will you marry me?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what do you like to eat?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i am alone",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what information should i share with casa?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do you think i look good?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do you know any tunes?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "love you!",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i am annoyed",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "that's right",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do you have brothers?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i despise you",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "good night",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "not true",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "haha",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "are you female?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i hate everything about you",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do you know other bots?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do you ever sing?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "are you a fan of country music?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "can you sing a song?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you are so annoying!",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "not funny.",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "hola",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what state are you in?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "why don't you ever stop talking?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "are you selling my data?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "don't you get hungry?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "who gets to read the casa report",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "hello cortana",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i didn't mean that",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "are you a boy?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do you know any songs?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what do you like to sing best?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "no, that's not true",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "who created you?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "aren't you cheerful",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "should i get a new job?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you're not funny.",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "it's really nice to meet you",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what's your name?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "are you my friend?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "useless",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "thank you",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you're the worst",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what's your boss' name?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "are you busy?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what are you?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "excuse a moi",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "nice to meet you",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "how smart you are",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "so sorry",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "who made you?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what do you think about alexa?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do i look good in blue?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "how much more awesome can you get?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "can i have a hug?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "which baseball teams do you like?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "where does the home visit take place?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "try to make some sense",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "just kidding",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do you know other digital agents?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i can't think of anything i want to do",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "good evening",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what kind of food do you like?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "why?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what's up?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "can you talk to me",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "who's smarter, me or you?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "testing 1 2 3",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "give me a joke",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you are no longer employed",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "sing a tune",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i think you're dreamy",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i like you",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you're rad.",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you are so unfunny.",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do you have a family?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i adore you",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "are you queer",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i thank you",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you are now unemployed",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "can you count to a million?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "good night to you",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "are you male?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "be my friend?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "are you around?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "excuse me",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "tell me a joke",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "can you hear me?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "shush!",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "are you there?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do you like cortana?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i want to be your friend.",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "morning",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "have you met cortana?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you honestly could not be more uninteresting",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "omg sorry",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "hi cortana",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "yes to that",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "life is good",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i love you.",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what state are you from?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what's your gender?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "it's a pleasure to meet you",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i'm cracking up",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i'm so sad",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i'm into it",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "say something stupid",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "how may times will case worker visit?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "why do you hate me?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i'm tired of you",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i'm pissed",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "my foster child needs a winter clothes. who pays for the clothing?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "can you sleep?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "it's my pleasure",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what do you eat?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "hi",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what is the answer to the universe?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i'm so lonely",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do you have sisters?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i want to lay down",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "are you trans?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "does the state provide financial assistance to help provide care for the children in foster care?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "have a good night",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i'm feeling blue",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i love my family.",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "night",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you fucked up",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "are you a man or a woman?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "is this thing on?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you bore me",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "is there an additional payment for a child with special needs?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do you dream?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do you think dragons are cool?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "which one of us is smarter?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "are you friends with other bots?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "are you selling my secrets?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "high five!",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do you love anyone?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what country are you in?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "who am i?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "yes",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what other supports are in place to assist foster parents?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you look ugly.",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do you like siri?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "who do you love?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "are you attempting world domination?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do you pee?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what is the meaning of life?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i want you to be my husband",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i'm tired",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do you know siri?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what do casas do with the information that they learn about my child",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "cook me something",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you're such an asshole",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i appreciate it",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what do you want to know about me?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you're dumb",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "that's inaccurate.",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i think you hate me.",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you keep saying the same thing all the time",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "thank you so much",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i wish i weren't so alone",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "later",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "be ridiculous",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "hello",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "be quiet",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "say something dumb",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i am here",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "zip it!",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "who's your mom?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "heya",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what is the maximum number of children allowed in a home?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "are you free?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "are you bisexual?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "correct",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "which one of us is more beautiful?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "can we be friends?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do you get tired?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "say a joke",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "that wasn't funny.",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "inaccurate",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "ask me a question.",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do you know my name?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "testing",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i'm in love with you.",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "how do i find a day care provider?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "stop talking",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "merry christmas",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do you ever get hungry?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "will i be able to maintain contact or receive information about the children after they leave my home?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what can you help me with?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i beg your pardon",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "kiss me",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do you believe in love?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "yup",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "are you with the nsa?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "are you a guy?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you are my favorite",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i'm famished",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "where do you come from?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do you know cortana?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "look at how smart you are",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "are you real?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do you like alexa?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i am bored",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "bingo",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you're so happy",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do you know the meaning of life?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i wish i could hug you",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "how's your day going?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you're not answering my question.",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "can you read my mind?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what do you even mean by that?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what's your favorite movie?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you're useless",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "oops, sorry",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "why do i have home visits?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "human or robot?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "are you a man?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "are you a person?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i am tall",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "hahaha",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "say something funny",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i need a hug",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "how can you help me?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you're hilarious",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you made no sense",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "are you here?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i'm an engineer",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "are foster care payments taxable?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you can't work for me anymore",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "how's your day?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "how is casa diffferent than guardian ad litem?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "are you with the cia?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what is a casa?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "that doesn't make sense",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "who's your boss?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what's your mom's name?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you are awesome!",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what's happening?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "accurate",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what should i do?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "are you a spy?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "everything you told me was false.",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "happy birthday!",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "that was funny",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "have you ever sung a song?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "that wasn't true",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "are you with the fbi?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you could not be more boring",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i'm chewing gum right now",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do you like computers?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do you have a dad?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "will the child's birth family be visiting or phoning?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "so tired",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "why do you think that?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "sry",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "can you chat with me?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i'm your biggest fan",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "are you hal?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "happy halloween!",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i'm so glad to meet you",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "are you the singularity?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "are you a fan of alexa?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "where are you located?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i'm starving",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i'm really sad",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "tell me how much you love me",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i don't get it",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do you want to rule the world?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "sing a song",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "can you hear me now?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "how do i become a foster care parent?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what do you think of me?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what makes you think so?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "say something ridiculous",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "are you smart?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i'm so sleepy",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "can't you change your answers?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do i have to be married to become a foster care parent?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i'm afraid i'm gonna have to let you go.",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "can we claim our foster child as a dependent?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i am hungry",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i think you're great",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "nope, false",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do you know google?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i love music.",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what can you do?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i'm so bored",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i'm sad today",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "am i a fool?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "who is your creator?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "who do you report to?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do you know me?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "should i try out for soccer?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i am a democrat",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "give me a kiss",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what happens if i have a problem during the evening or on a weekend?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "your face is like a pancake.",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i think you're swell",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "that's not funny.",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you're nice!",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you're so basic",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "hello alexa",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i don't understand",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "how do i select the day care provider?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what are you doing?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you're right.",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what age are you?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you're smart",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i'm lonely",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "basic af",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do you think i should ask her out?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "false",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what do you mean by that?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what do you think about love?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you're really boring",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you're so cool",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "yes, that's right",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you're no fun",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what is wrong with you!",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "brb",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "how are things?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "talk to me",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "tell a joke",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "are you a girl or a boy?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "good evening to you",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i'm bored out of my mind",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do you know other chatbots?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "go to hell",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "can you say anything else",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "butterface.",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i'm so hungry",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do you love me?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you're way off.",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "will you be my best friend?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you're such a sweetheart",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "nobody likes me",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what's the name of your boss?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "chat with me",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "are there different requirmements to become foster care parents for a tribe?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what time is it?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "hello google",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "where did you come from?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i want to marry you.",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you're the best",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "are you asexual?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i'm giving you a pink slip",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do you like baseball?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "ask me something.",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you seem really happy",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i'm sorry",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "lol",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what is up?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "who's prettier, me or you?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "who is your mother?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i miss you",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i am a republican",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "that's awesome",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what are you doing tomorrow?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "how are the child's financial and medical needs covered?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what does a casa volunteer do?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "hello siri",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "who owns you?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i hope you like me",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do you think i should ask him out?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i'd like to take you out on a date",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what's your job?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do i need to count foster income in my taxes?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "how intelligent are you?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what are the agency's expectations of foster parents?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "talk to you later",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "should i attend court hearings",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you are stupid",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "hi there!",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you're welcome",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i'm just playing",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "having a good day?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i have 7 cats",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "thnx",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "where are you?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you’re ugly.",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what's your age?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "where'd you come from?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "ha",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "cool!",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i am happy",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what are you doing right now?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what do you think about siri?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i'm all tuckered out",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "can you sneeze?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do you sing?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "how are you?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what kind of candy do you like?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "your face is ugly.",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do i need to become a foster care parent before i can adopt?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "can you sing?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you're funny",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "don't you ever sleep?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i need a kiss",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "that was a joke",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "why do you say the same thing all the time?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what's your opinion of me?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "how long ago were you born?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i'm a lesbian",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what if child has special needs?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "how old are you?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i'm in love.",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "how are you today?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you're so funny.",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "hi google",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "give me a fist bump",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "will the worker take notes during my home visit?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "can you fly?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "can we chat?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i have an upcoming court hearing and was wondering should i attend",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "that was correct",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "are you better looking than me?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "that was a stupid answer.",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "who is your father?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "fist bump!",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "who are children that need foster homes and adoption?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i wish you just go away.",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i hate you",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "there's nothing to do",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do foster children have medical insurance?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you are funny :)",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "here i am",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "here's a kiss for you",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do you have a sister?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "are you a girl?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do you have siblings?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what is love?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "who's your daddy?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "will there be time to speak privately with my worker during the home visit?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "hiya",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "great!",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you seem really smart",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you are fired",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what's your favorite activity?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i'm full of sadness",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what are basic qualfications of a foster care parent?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "how high can you jump?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "are you smarter than me?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "are you real or fake?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i'm so madqw  b",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "are you a woman?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "my sincere thanks",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "\"what should i expect, does my house have to be clean?\"",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i'm despondent",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "there?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "what do you think about cortana?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "ask me anything.",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "do you hate me?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "who will i work with as a foster parent?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "you're wonderful",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "can i adopt through foster care?",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "aren't you chipper",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "talk with me",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "i got a new haircut",
+      "intent": "q_Foster Care QnA",
+      "entities": []
+    },
+    {
+      "text": "how do i become a foster parent?",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "should i count foster care in my income taxes",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "i have an upcoming court hearing and i was wondering is it important that i attend?",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "are wic services free",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "i have a court hearing coming up and i was wondering is it important that i attend?",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "where are dmv locations near me",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "do i need to count the foster care income i receive?",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "is it important to attend court hearings?",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "i need to find a dmv",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "gobbbledy gook",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "3. do i get to choose the foster child for my home?",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "thanks so much",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "what do i need to do to prepare myself for home visit?",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "how do i become a licensed foster care provider?",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "i have a court hearing coming up and was wondering was it important for me to attend?",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "what is wic",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "do i have to pay for child care?",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "i have a court hearing coming up and i am wondering if it is important for me to attend",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "i'm looking for dmv locations",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "hey",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "should i attend my upcoming court date",
+      "intent": "None",
+      "entities": []
+    }
+  ]
+}

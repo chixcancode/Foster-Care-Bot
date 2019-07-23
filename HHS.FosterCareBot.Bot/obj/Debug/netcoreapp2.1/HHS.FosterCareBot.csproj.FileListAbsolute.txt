@@ -1,0 +1,16 @@
+C:\code\HHS.FosterCareBot\HHS.FosterCareBot\bin\Debug\netcoreapp2.1\BotConfiguration.bot
+C:\code\HHS.FosterCareBot\HHS.FosterCareBot\bin\Debug\netcoreapp2.1\HHS.FosterCareBot.deps.json
+C:\code\HHS.FosterCareBot\HHS.FosterCareBot\bin\Debug\netcoreapp2.1\HHS.FosterCareBot.runtimeconfig.json
+C:\code\HHS.FosterCareBot\HHS.FosterCareBot\bin\Debug\netcoreapp2.1\HHS.FosterCareBot.runtimeconfig.dev.json
+C:\code\HHS.FosterCareBot\HHS.FosterCareBot\bin\Debug\netcoreapp2.1\HHS.FosterCareBot.dll
+C:\code\HHS.FosterCareBot\HHS.FosterCareBot\obj\Debug\netcoreapp2.1\HHS.FosterCareBot.csprojAssemblyReference.cache
+C:\code\HHS.FosterCareBot\HHS.FosterCareBot\obj\Debug\netcoreapp2.1\HHS.FosterCareBot.csproj.CoreCompileInputs.cache
+C:\code\HHS.FosterCareBot\HHS.FosterCareBot\obj\Debug\netcoreapp2.1\HHS.FosterCareBot.RazorAssemblyInfo.cache
+C:\code\HHS.FosterCareBot\HHS.FosterCareBot\obj\Debug\netcoreapp2.1\HHS.FosterCareBot.RazorAssemblyInfo.cs
+C:\code\HHS.FosterCareBot\HHS.FosterCareBot\obj\Debug\netcoreapp2.1\HHS.FosterCareBot.AssemblyInfoInputs.cache
+C:\code\HHS.FosterCareBot\HHS.FosterCareBot\obj\Debug\netcoreapp2.1\HHS.FosterCareBot.AssemblyInfo.cs
+C:\code\HHS.FosterCareBot\HHS.FosterCareBot\obj\Debug\netcoreapp2.1\HHS.FosterCareBot.RazorTargetAssemblyInfo.cache
+C:\code\HHS.FosterCareBot\HHS.FosterCareBot\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\code\HHS.FosterCareBot\HHS.FosterCareBot\bin\Debug\netcoreapp2.1\HHS.FosterCareBot.pdb
+C:\code\HHS.FosterCareBot\HHS.FosterCareBot\obj\Debug\netcoreapp2.1\HHS.FosterCareBot.dll
+C:\code\HHS.FosterCareBot\HHS.FosterCareBot\obj\Debug\netcoreapp2.1\HHS.FosterCareBot.pdb

@@ -1,0 +1,7 @@
+Utterance	Intents
+hello	None, q_FosterCare-qna
+bye	l_FosterCare, q_FosterCare-qna
+hiya	None, q_FosterCare-qna
+thanks	None, q_FosterCare-qna
+thank you	None, q_FosterCare-qna
+why is sky blue	None, q_FosterCare-qna

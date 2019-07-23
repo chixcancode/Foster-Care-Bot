@@ -1,0 +1,7 @@
+Utterance	Intents
+hello	None, q_Foster Care QnA
+bye	l_Child Welfare LUIS, q_Foster Care QnA
+why is sky blue?	None, q_Foster Care QnA
+hola	None, q_Foster Care QnA
+are foster care payments taxable?	None, q_Foster Care QnA
+goodbye	l_Child Welfare LUIS, q_Foster Care QnA

@@ -1,0 +1,9 @@
+C:\code\HHS\src\Ical.Net\bin\Debug\netstandard1.3\Ical.Net.deps.json
+C:\code\HHS\src\Ical.Net\bin\Debug\netstandard1.3\Ical.Net.dll
+C:\code\HHS\src\Ical.Net\bin\Debug\netstandard1.3\Ical.Net.pdb
+C:\code\HHS\src\Ical.Net\obj\Debug\netstandard1.3\Ical.Net.csprojAssemblyReference.cache
+C:\code\HHS\src\Ical.Net\obj\Debug\netstandard1.3\Ical.Net.csproj.CoreCompileInputs.cache
+C:\code\HHS\src\Ical.Net\obj\Debug\netstandard1.3\Ical.Net.AssemblyInfoInputs.cache
+C:\code\HHS\src\Ical.Net\obj\Debug\netstandard1.3\Ical.Net.AssemblyInfo.cs
+C:\code\HHS\src\Ical.Net\obj\Debug\netstandard1.3\Ical.Net.dll
+C:\code\HHS\src\Ical.Net\obj\Debug\netstandard1.3\Ical.Net.pdb

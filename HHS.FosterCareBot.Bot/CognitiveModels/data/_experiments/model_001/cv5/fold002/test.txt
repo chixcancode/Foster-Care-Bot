@@ -1,0 +1,163 @@
+Label	Weight	Text
+l_Child Welfare LUIS	56	what are my appointment for today
+l_Child Welfare LUIS	56	i need wic locations
+l_Child Welfare LUIS	56	what's going on tomorrow?
+l_Child Welfare LUIS	56	can you find my court dates
+l_Child Welfare LUIS	56	what do i have for tomorrow?
+l_Child Welfare LUIS	56	where are wic offices
+l_Child Welfare LUIS	56	i have any upcoming court date
+l_Child Welfare LUIS	56	what does my calendar look like for today?
+l_Child Welfare LUIS	56	get upcoming court dates for jane
+l_Child Welfare LUIS	56	find places to swap or donate clothes
+None	46.66666	gobbbledy gook
+None	46.66666	3. do i get to choose the foster child for my home?
+None	46.66666	thanks so much
+None	46.66666	what do i need to do to prepare myself for home visit?
+None	46.66666	how do i become a licensed foster care provider?
+None	46.66666	i have a court hearing coming up and was wondering was it important for me to attend?
+None	46.66666	gobbbledy gook
+None	46.66666	3. do i get to choose the foster child for my home?
+None	46.66666	thanks so much
+None	46.66666	what do i need to do to prepare myself for home visit?
+None	46.66666	how do i become a licensed foster care provider?
+None	46.66666	i have a court hearing coming up and was wondering was it important for me to attend?
+q_Foster Care QnA	3.916084	You're the worst
+q_Foster Care QnA	3.916084	What's your boss' name?
+q_Foster Care QnA	3.916084	Are you busy?
+q_Foster Care QnA	3.916084	What are you?
+q_Foster Care QnA	3.916084	Excuse a moi
+q_Foster Care QnA	3.916084	Nice to meet you
+q_Foster Care QnA	3.916084	How smart you are
+q_Foster Care QnA	3.916084	So sorry
+q_Foster Care QnA	3.916084	Who made you?
+q_Foster Care QnA	3.916084	What do you think about Alexa?
+q_Foster Care QnA	3.916084	Do I look good in blue?
+q_Foster Care QnA	3.916084	How much more awesome can you get?
+q_Foster Care QnA	3.916084	Can I have a hug?
+q_Foster Care QnA	3.916084	Which baseball teams do you like?
+q_Foster Care QnA	3.916084	Where does the home visit take place?
+q_Foster Care QnA	3.916084	Try to make some sense
+q_Foster Care QnA	3.916084	Just kidding
+q_Foster Care QnA	3.916084	Do you know other digital agents?
+q_Foster Care QnA	3.916084	I can't think of anything I want to do
+q_Foster Care QnA	3.916084	Good evening
+q_Foster Care QnA	3.916084	What kind of food do you like?
+q_Foster Care QnA	3.916084	Why?
+q_Foster Care QnA	3.916084	What's up?
+q_Foster Care QnA	3.916084	Can you talk to me
+q_Foster Care QnA	3.916084	Who's smarter, me or you?
+q_Foster Care QnA	3.916084	Testing 1 2 3
+q_Foster Care QnA	3.916084	Give me a joke
+q_Foster Care QnA	3.916084	You are no longer employed
+q_Foster Care QnA	3.916084	Sing a tune
+q_Foster Care QnA	3.916084	I think you're dreamy
+q_Foster Care QnA	3.916084	I like you
+q_Foster Care QnA	3.916084	You're rad.
+q_Foster Care QnA	3.916084	You are so unfunny.
+q_Foster Care QnA	3.916084	Do you have a family?
+q_Foster Care QnA	3.916084	I adore you
+q_Foster Care QnA	3.916084	Are you queer
+q_Foster Care QnA	3.916084	I thank you
+q_Foster Care QnA	3.916084	You are now unemployed
+q_Foster Care QnA	3.916084	Can you count to a million?
+q_Foster Care QnA	3.916084	Good night to you
+q_Foster Care QnA	3.916084	Are you male?
+q_Foster Care QnA	3.916084	Be my friend?
+q_Foster Care QnA	3.916084	Are you around?
+q_Foster Care QnA	3.916084	Excuse me
+q_Foster Care QnA	3.916084	Tell me a joke
+q_Foster Care QnA	3.916084	Can you hear me?
+q_Foster Care QnA	3.916084	Shush!
+q_Foster Care QnA	3.916084	Are you there?
+q_Foster Care QnA	3.916084	Do you like Cortana?
+q_Foster Care QnA	3.916084	I want to be your friend.
+q_Foster Care QnA	3.916084	Morning
+q_Foster Care QnA	3.916084	Have you met Cortana?
+q_Foster Care QnA	3.916084	You honestly could not be more uninteresting
+q_Foster Care QnA	3.916084	Omg sorry
+q_Foster Care QnA	3.916084	Hi Cortana
+q_Foster Care QnA	3.916084	Yes to that
+q_Foster Care QnA	3.916084	Life is good
+q_Foster Care QnA	7.832168	I love you.
+q_Foster Care QnA	3.916084	What state are you from?
+q_Foster Care QnA	3.916084	What's your gender?
+q_Foster Care QnA	3.916084	It's a pleasure to meet you
+q_Foster Care QnA	3.916084	I'm cracking up
+q_Foster Care QnA	3.916084	I'm so sad
+q_Foster Care QnA	3.916084	I'm into it
+q_Foster Care QnA	3.916084	Say something stupid
+q_Foster Care QnA	3.916084	How may times will case worker visit?
+q_Foster Care QnA	3.916084	Why do you hate me?
+q_Foster Care QnA	3.916084	I'm tired of you
+q_Foster Care QnA	3.916084	I'm pissed
+q_Foster Care QnA	3.916084	My foster child needs a winter clothes. Who pays for the clothing?
+q_Foster Care QnA	3.916084	Can you sleep?
+q_Foster Care QnA	3.916084	It's my pleasure
+q_Foster Care QnA	3.916084	What do you eat?
+q_Foster Care QnA	7.832168	hi
+q_Foster Care QnA	3.916084	What is the answer to the universe?
+q_Foster Care QnA	3.916084	I'm so lonely
+q_Foster Care QnA	3.916084	Do you have sisters?
+q_Foster Care QnA	3.916084	I want to lay down
+q_Foster Care QnA	3.916084	Are you trans?
+q_Foster Care QnA	3.916084	Does the state provide financial assistance to help provide care for the children in foster care?
+q_Foster Care QnA	3.916084	Have a good night
+q_Foster Care QnA	3.916084	I'm feeling blue
+q_Foster Care QnA	3.916084	I love my family.
+q_Foster Care QnA	3.916084	Night
+q_Foster Care QnA	3.916084	You fucked up
+q_Foster Care QnA	3.916084	Are you a man or a woman?
+q_Foster Care QnA	3.916084	Is this thing on?
+q_Foster Care QnA	3.916084	You bore me
+q_Foster Care QnA	3.916084	Is there an additional payment for a child with special needs?
+q_Foster Care QnA	3.916084	Do you dream?
+q_Foster Care QnA	3.916084	Do you think dragons are cool?
+q_Foster Care QnA	3.916084	Which one of us is smarter?
+q_Foster Care QnA	3.916084	Are you friends with other bots?
+q_Foster Care QnA	3.916084	Are you selling my secrets?
+q_Foster Care QnA	3.916084	High five!
+q_Foster Care QnA	3.916084	Do you love anyone?
+q_Foster Care QnA	3.916084	What country are you in?
+q_Foster Care QnA	3.916084	Who am I?
+q_Foster Care QnA	3.916084	Yes
+q_Foster Care QnA	3.916084	What other supports are in place to assist foster parents?
+q_Foster Care QnA	3.916084	You look ugly.
+q_Foster Care QnA	3.916084	Do you like Siri?
+q_Foster Care QnA	3.916084	Who do you love?
+q_Foster Care QnA	3.916084	Bye
+q_Foster Care QnA	3.916084	Are you attempting world domination?
+q_Foster Care QnA	3.916084	Do you pee?
+q_Foster Care QnA	3.916084	What is the meaning of life?
+q_Foster Care QnA	3.916084	I want you to be my husband
+q_Foster Care QnA	3.916084	I'm tired
+q_Foster Care QnA	3.916084	Do you know Siri?
+q_Foster Care QnA	3.916084	What do CASAs do with the information that they learn about my child
+q_Foster Care QnA	3.916084	Cook me something
+q_Foster Care QnA	3.916084	You're such an asshole
+q_Foster Care QnA	3.916084	I appreciate it
+q_Foster Care QnA	3.916084	What do you want to know about me?
+q_Foster Care QnA	3.916084	You're dumb
+q_Foster Care QnA	3.916084	That's inaccurate.
+q_Foster Care QnA	3.916084	I think you hate me.
+q_Foster Care QnA	3.916084	You keep saying the same thing all the time
+q_Foster Care QnA	3.916084	Thank you so much
+q_Foster Care QnA	3.916084	I wish I weren't so alone
+q_Foster Care QnA	3.916084	Later
+q_Foster Care QnA	3.916084	Be ridiculous
+q_Foster Care QnA	7.832168	hello
+q_Foster Care QnA	3.916084	Be quiet
+q_Foster Care QnA	3.916084	Say something dumb
+q_Foster Care QnA	3.916084	I am here
+q_Foster Care QnA	3.916084	Zip it!
+q_Foster Care QnA	3.916084	Who's your mom?
+q_Foster Care QnA	3.916084	Heya
+q_Foster Care QnA	3.916084	What is the maximum number of children allowed in a home?
+q_Foster Care QnA	3.916084	Are you free?
+q_Foster Care QnA	3.916084	Are you bisexual?
+q_Foster Care QnA	3.916084	Correct
+q_Foster Care QnA	3.916084	Which one of us is more beautiful?
+q_Foster Care QnA	3.916084	Can we be friends?
+q_Foster Care QnA	3.916084	Do you get tired?
+q_Foster Care QnA	3.916084	Say a joke
+q_Foster Care QnA	3.916084	That wasn't funny.
+q_Foster Care QnA	3.916084	Inaccurate

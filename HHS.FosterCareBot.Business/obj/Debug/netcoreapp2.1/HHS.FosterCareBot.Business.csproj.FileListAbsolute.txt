@@ -1,0 +1,12 @@
+C:\code\HHS\src\HHS.FosterCareBot.Business\bin\Debug\netcoreapp2.1\HHS.FosterCareBot.Business.deps.json
+C:\code\HHS\src\HHS.FosterCareBot.Business\bin\Debug\netcoreapp2.1\HHS.FosterCareBot.Business.dll
+C:\code\HHS\src\HHS.FosterCareBot.Business\bin\Debug\netcoreapp2.1\HHS.FosterCareBot.Business.pdb
+C:\code\HHS\src\HHS.FosterCareBot.Business\bin\Debug\netcoreapp2.1\Ical.Net.dll
+C:\code\HHS\src\HHS.FosterCareBot.Business\bin\Debug\netcoreapp2.1\Ical.Net.pdb
+C:\code\HHS\src\HHS.FosterCareBot.Business\obj\Debug\netcoreapp2.1\HHS.FosterCareBot.Business.csprojAssemblyReference.cache
+C:\code\HHS\src\HHS.FosterCareBot.Business\obj\Debug\netcoreapp2.1\HHS.FosterCareBot.Business.csproj.CoreCompileInputs.cache
+C:\code\HHS\src\HHS.FosterCareBot.Business\obj\Debug\netcoreapp2.1\HHS.FosterCareBot.Business.AssemblyInfoInputs.cache
+C:\code\HHS\src\HHS.FosterCareBot.Business\obj\Debug\netcoreapp2.1\HHS.FosterCareBot.Business.AssemblyInfo.cs
+C:\code\HHS\src\HHS.FosterCareBot.Business\obj\Debug\netcoreapp2.1\HHS.FosterCareBot.Business.csproj.CopyComplete
+C:\code\HHS\src\HHS.FosterCareBot.Business\obj\Debug\netcoreapp2.1\HHS.FosterCareBot.Business.dll
+C:\code\HHS\src\HHS.FosterCareBot.Business\obj\Debug\netcoreapp2.1\HHS.FosterCareBot.Business.pdb

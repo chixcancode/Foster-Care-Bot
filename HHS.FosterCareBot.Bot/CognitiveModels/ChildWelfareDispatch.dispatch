@@ -1,0 +1,37 @@
+{
+  "authoringRegion": "westus",
+  "hierarchical": true,
+  "useAllTrainingData": false,
+  "dontReviseUtterance": false,
+  "copyLuisData": true,
+  "services": [
+    {
+      "intentName": "l_FosterCare",
+      "appId": "c338dd83-bd1d-46af-832f-4eeddcc75b3a",
+      "authoringKey": "04633bfab6fa466d9a5f512d5306ae78",
+      "version": "1.0",
+      "region": "westus",
+      "type": "luis",
+      "name": "Foster Care LUIS",
+      "id": "1"
+    },
+    {
+      "intentName": "q_FosterCare-qna",
+      "kbId": "ae3ed205-5f81-4e68-b662-a6b422230103",
+      "subscriptionKey": "475dbbcd28944b609532cce19e575617",
+      "type": "qna",
+      "name": "Foster Care Bot FAQ",
+      "id": "2"
+    }
+  ],
+  "serviceIds": [
+    "1",
+    "2"
+  ],
+  "appId": "c1823796-0b42-458f-9868-e8f638472c0d",
+  "authoringKey": "04633bfab6fa466d9a5f512d5306ae78",
+  "version": "Dispatch",
+  "region": "westus",
+  "type": "dispatch",
+  "name": "ChildWelfareDispatch"
+}

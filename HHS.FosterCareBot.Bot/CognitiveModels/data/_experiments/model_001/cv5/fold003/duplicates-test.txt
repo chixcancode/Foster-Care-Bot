@@ -1,0 +1,2 @@
+Utterance	Intents
+are foster care payments taxable?	None, q_Foster Care QnA

@@ -1,0 +1,12 @@
+C:\code\HHS\src\Ical.Net\bin\Debug\net46\Ical.Net.dll
+C:\code\HHS\src\Ical.Net\bin\Debug\net46\Ical.Net.pdb
+C:\code\HHS\src\Ical.Net\bin\Debug\net46\NodaTime.dll
+C:\code\HHS\src\Ical.Net\bin\Debug\net46\System.Reflection.TypeExtensions.dll
+C:\code\HHS\src\Ical.Net\bin\Debug\net46\System.Runtime.Serialization.Primitives.dll
+C:\code\HHS\src\Ical.Net\obj\Debug\net46\Ical.Net.csproj.CoreCompileInputs.cache
+C:\code\HHS\src\Ical.Net\obj\Debug\net46\Ical.Net.AssemblyInfoInputs.cache
+C:\code\HHS\src\Ical.Net\obj\Debug\net46\Ical.Net.AssemblyInfo.cs
+C:\code\HHS\src\Ical.Net\obj\Debug\net46\Ical.Net.csproj.CopyComplete
+C:\code\HHS\src\Ical.Net\obj\Debug\net46\Ical.Net.dll
+C:\code\HHS\src\Ical.Net\obj\Debug\net46\Ical.Net.pdb
+C:\code\HHS\src\Ical.Net\obj\Debug\net46\Ical.Net.csprojAssemblyReference.cache

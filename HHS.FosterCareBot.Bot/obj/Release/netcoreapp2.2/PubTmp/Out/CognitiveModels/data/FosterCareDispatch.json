@@ -1,0 +1,25 @@
+{
+  "luis_schema_version": "3.0.0",
+  "versionId": "Dispatch",
+  "name": "FosterCareDispatch",
+  "desc": "Dispatch model for FosterCareDispatch",
+  "culture": "en-us",
+  "intents": [],
+  "entities": [],
+  "composites": [],
+  "closedLists": [],
+  "patternAnyEntities": [],
+  "regex_entities": [],
+  "prebuiltEntities": [],
+  "model_features": [
+    {
+      "name": "i_0",
+      "mode": true,
+      "words": "monday,tuesday,wednesday",
+      "activated": true
+    }
+  ],
+  "regex_features": [],
+  "patterns": [],
+  "utterances": []
+}

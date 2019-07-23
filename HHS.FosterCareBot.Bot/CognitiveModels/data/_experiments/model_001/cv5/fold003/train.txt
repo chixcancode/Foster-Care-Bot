@@ -1,0 +1,620 @@
+Label	Weight	Text
+l_Child Welfare LUIS	14.81579	what are my appointments for today?
+l_Child Welfare LUIS	14.81579	find child provider
+l_Child Welfare LUIS	14.81579	find providers
+l_Child Welfare LUIS	14.81579	get upcoming court dates
+l_Child Welfare LUIS	14.81579	i need someone to watch kids
+l_Child Welfare LUIS	14.81579	are there upcoming court dates for jane
+l_Child Welfare LUIS	14.81579	find child care providers in chicago
+l_Child Welfare LUIS	14.81579	do i have anything for thursday?
+l_Child Welfare LUIS	14.81579	i realize that i have an upcoming court date. is it important that i attend?
+l_Child Welfare LUIS	14.81579	how do i find child care
+l_Child Welfare LUIS	14.81579	i am looking for child care providers in chicago
+l_Child Welfare LUIS	14.81579	do i have any court dates
+l_Child Welfare LUIS	14.81579	are there approved child care providers near me?
+l_Child Welfare LUIS	14.81579	i need to find places to donate clothes
+l_Child Welfare LUIS	14.81579	do i have any upcoming appointments?
+l_Child Welfare LUIS	14.81579	see ya later
+l_Child Welfare LUIS	14.81579	do i have upcoming court date
+l_Child Welfare LUIS	14.81579	i'm looking for wic locations in 20876
+l_Child Welfare LUIS	14.81579	i need a list of wic locations
+l_Child Welfare LUIS	14.81579	get child care providers
+l_Child Welfare LUIS	14.81579	what are my appointment for today
+l_Child Welfare LUIS	14.81579	i need wic locations
+l_Child Welfare LUIS	14.81579	what's going on tomorrow?
+l_Child Welfare LUIS	14.81579	can you find my court dates
+l_Child Welfare LUIS	14.81579	what do i have for tomorrow?
+l_Child Welfare LUIS	14.81579	where are wic offices
+l_Child Welfare LUIS	14.81579	i have any upcoming court date
+l_Child Welfare LUIS	14.81579	what does my calendar look like for today?
+l_Child Welfare LUIS	14.81579	get upcoming court dates for jane
+l_Child Welfare LUIS	14.81579	find places to swap or donate clothes
+l_Child Welfare LUIS	14.81579	can you get my upcoming court dates?
+l_Child Welfare LUIS	14.81579	bye
+l_Child Welfare LUIS	14.81579	do i have any upcoming court dates
+l_Child Welfare LUIS	14.81579	what do i have planned for tuesday
+l_Child Welfare LUIS	14.81579	get child providers in chicago
+l_Child Welfare LUIS	14.81579	find a child care provider
+l_Child Welfare LUIS	14.81579	i cant remember my court date. can you give me my court date
+l_Child Welfare LUIS	14.81579	see ya
+None	24.47826	how do i become a foster parent?
+None	24.47826	should i count foster care in my income taxes
+None	24.47826	i have an upcoming court hearing and i was wondering is it important that i attend?
+None	24.47826	hiya
+None	24.47826	are wic services free
+None	24.47826	thank you
+None	24.47826	i have a court hearing coming up and i was wondering is it important that i attend?
+None	24.47826	where are dmv locations near me
+None	24.47826	do i need to count the foster care income i receive?
+None	24.47826	is it important to attend court hearings?
+None	24.47826	i need to find a dmv
+None	24.47826	thanks
+None	24.47826	gobbbledy gook
+None	24.47826	3. do i get to choose the foster child for my home?
+None	24.47826	thanks so much
+None	24.47826	what do i need to do to prepare myself for home visit?
+None	24.47826	how do i become a licensed foster care provider?
+None	24.47826	i have a court hearing coming up and was wondering was it important for me to attend?
+None	24.47826	hey
+None	24.47826	hello
+None	24.47826	hola
+None	48.95652	should i attend my upcoming court date
+q_Foster Care QnA	1	That's true
+q_Foster Care QnA	1	Who's your dad?
+q_Foster Care QnA	1	You're so smart
+q_Foster Care QnA	1	Sing something
+q_Foster Care QnA	1	Where is the Arkansas child welfare office?
+q_Foster Care QnA	1	How was your day?
+q_Foster Care QnA	1	Are you human?
+q_Foster Care QnA	1	Can you make me a sandwich?
+q_Foster Care QnA	1	Do I get to choose the foster child for my home?
+q_Foster Care QnA	1	Be more fun
+q_Foster Care QnA	1	You're a fuckup
+q_Foster Care QnA	1	What if a child needs constant care or supervision?
+q_Foster Care QnA	1	Nighty night
+q_Foster Care QnA	1	What color do you like?
+q_Foster Care QnA	1	How happy are you?
+q_Foster Care QnA	1	How beautiful am i?
+q_Foster Care QnA	1	Are you my assistant?
+q_Foster Care QnA	1	I want you to like me
+q_Foster Care QnA	1	I miss you so much!
+q_Foster Care QnA	1	Can you play sports?
+q_Foster Care QnA	1	Do you play games?
+q_Foster Care QnA	1	Kthx
+q_Foster Care QnA	1	Why is that?
+q_Foster Care QnA	1	When will you shut up?
+q_Foster Care QnA	1	What's my name?
+q_Foster Care QnA	1	Aren't you awesome?
+q_Foster Care QnA	1	What do you think about me?
+q_Foster Care QnA	1	I'm not following
+q_Foster Care QnA	1	You seem happy
+q_Foster Care QnA	1	Give me a high five
+q_Foster Care QnA	1	Are you happy?
+q_Foster Care QnA	1	Will you be my wife?
+q_Foster Care QnA	1	What do you do?
+q_Foster Care QnA	1	Are you really happy?
+q_Foster Care QnA	1	I am doing that
+q_Foster Care QnA	1	Where do you live?
+q_Foster Care QnA	1	What is a guardian?
+q_Foster Care QnA	1	How do you feel about working late?
+q_Foster Care QnA	1	You're very intelligent
+q_Foster Care QnA	2	Why are you so boring
+q_Foster Care QnA	1	How high can you count?
+q_Foster Care QnA	1	Say a silly thing
+q_Foster Care QnA	1	You're stupid
+q_Foster Care QnA	1	Which people made you?
+q_Foster Care QnA	1	Good morning
+q_Foster Care QnA	1	What makes you think that?
+q_Foster Care QnA	1	Are you old?
+q_Foster Care QnA	1	Why not?
+q_Foster Care QnA	1	I wish you would say something else
+q_Foster Care QnA	1	Do you prefer red or blue?
+q_Foster Care QnA	1	You don't interest me at all
+q_Foster Care QnA	1	Do you have any other responses?
+q_Foster Care QnA	1	I want to eat something
+q_Foster Care QnA	1	Where should I go on vacation?
+q_Foster Care QnA	1	What's new?
+q_Foster Care QnA	1	What do you think about bots?
+q_Foster Care QnA	1	What are you doing later?
+q_Foster Care QnA	1	Do you sweat?
+q_Foster Care QnA	1	I want to go shopping
+q_Foster Care QnA	1	Evening
+q_Foster Care QnA	1	I love getting valentines.
+q_Foster Care QnA	1	Are you pansexual?
+q_Foster Care QnA	1	Are you in love with me?
+q_Foster Care QnA	1	I'm in such a good mood
+q_Foster Care QnA	1	You don't know anything.
+q_Foster Care QnA	1	Hi Siri
+q_Foster Care QnA	1	Will I have to work with the child's parent?
+q_Foster Care QnA	1	You're not making sense
+q_Foster Care QnA	1	That was right
+q_Foster Care QnA	1	Is it important that I attend court hearings
+q_Foster Care QnA	1	Happy Hannukah
+q_Foster Care QnA	1	What's wrong with you?
+q_Foster Care QnA	1	What were you doing yesterday?
+q_Foster Care QnA	1	I'm just kidding around
+q_Foster Care QnA	1	Be silly
+q_Foster Care QnA	1	I'm joyous
+q_Foster Care QnA	1	I'm ready for bed
+q_Foster Care QnA	1	I can drive a car
+q_Foster Care QnA	1	That's not accurate
+q_Foster Care QnA	1	You're lame
+q_Foster Care QnA	1	ROFL
+q_Foster Care QnA	1	What's your favorite food?
+q_Foster Care QnA	1	How much do you love me?
+q_Foster Care QnA	1	Do you get hungry?
+q_Foster Care QnA	1	Do you have a brother?
+q_Foster Care QnA	1	Do I need to keep my house neat for visit?
+q_Foster Care QnA	1	Are you prettier than me?
+q_Foster Care QnA	1	Are you Skynet?
+q_Foster Care QnA	1	Are you my imaginary friend?
+q_Foster Care QnA	1	Who's your master?
+q_Foster Care QnA	1	I'm ticked off
+q_Foster Care QnA	1	Am I pretty?
+q_Foster Care QnA	1	Do you spend time in your garden?
+q_Foster Care QnA	1	Till we meet again
+q_Foster Care QnA	1	Will a social worker be assigned to assist?
+q_Foster Care QnA	1	Pardon me
+q_Foster Care QnA	1	Say something
+q_Foster Care QnA	1	You are the love of my life
+q_Foster Care QnA	1	What's going on?
+q_Foster Care QnA	1	What did you do yesterday?
+q_Foster Care QnA	1	Where are you from?
+q_Foster Care QnA	1	Do I look okay?
+q_Foster Care QnA	1	I am tired
+q_Foster Care QnA	1	What country are you from?
+q_Foster Care QnA	1	Are you my fan?
+q_Foster Care QnA	1	Give me some sugar
+q_Foster Care QnA	1	What's the meaning of life?
+q_Foster Care QnA	1	That's not true.
+q_Foster Care QnA	1	Thanks
+q_Foster Care QnA	1	I will be back
+q_Foster Care QnA	1	You are so bad at this.
+q_Foster Care QnA	1	That's so wrong.
+q_Foster Care QnA	1	Sounds good
+q_Foster Care QnA	1	Are you a swinger?
+q_Foster Care QnA	1	What should I call you?
+q_Foster Care QnA	1	What kinds of things can you do?
+q_Foster Care QnA	1	Is there child care assistance available for foster care parents?
+q_Foster Care QnA	1	What do you go by?
+q_Foster Care QnA	1	Do you know Alexa?
+q_Foster Care QnA	1	Yup, that's true
+q_Foster Care QnA	1	You're so boring
+q_Foster Care QnA	1	I am going on a run
+q_Foster Care QnA	1	Nobody cares about me
+q_Foster Care QnA	1	Do you like me?
+q_Foster Care QnA	1	Do you like apples?
+q_Foster Care QnA	1	Do you like my hat?
+q_Foster Care QnA	1	Do you have boogers?
+q_Foster Care QnA	1	Do you have a name?
+q_Foster Care QnA	1	Are you straight?
+q_Foster Care QnA	1	Later alligator
+q_Foster Care QnA	1	How are you doing?
+q_Foster Care QnA	1	Why are there home visits?
+q_Foster Care QnA	1	You're an asshole
+q_Foster Care QnA	1	Awesome
+q_Foster Care QnA	1	What's your favorite color?
+q_Foster Care QnA	1	You're so stupid
+q_Foster Care QnA	1	Are you young?
+q_Foster Care QnA	1	Where's your house?
+q_Foster Care QnA	1	You're fired!
+q_Foster Care QnA	1	Welcome to springtime!
+q_Foster Care QnA	1	You face sucks.
+q_Foster Care QnA	1	You're boring
+q_Foster Care QnA	1	You suck
+q_Foster Care QnA	1	That's hilarious
+q_Foster Care QnA	1	You are my best friend
+q_Foster Care QnA	1	Am I a good person?
+q_Foster Care QnA	1	You're awful
+q_Foster Care QnA	1	Hum a tune
+q_Foster Care QnA	1	What's your purpose?
+q_Foster Care QnA	1	Why is sky blue?
+q_Foster Care QnA	1	You must hate me.
+q_Foster Care QnA	1	That made no sense
+q_Foster Care QnA	1	Who are you?
+q_Foster Care QnA	1	How do I look today?
+q_Foster Care QnA	1	Go away
+q_Foster Care QnA	1	Do you eat?
+q_Foster Care QnA	1	Yes, that's true
+q_Foster Care QnA	1	I just want to go to sleep
+q_Foster Care QnA	1	Do i have to claim foster care payments?
+q_Foster Care QnA	1	Back in a minute
+q_Foster Care QnA	1	What is the purpose of a home visit?
+q_Foster Care QnA	1	BFFs forever?
+q_Foster Care QnA	1	What do I do if there is an emergency?
+q_Foster Care QnA	1	I want to spend the rest of my life with you
+q_Foster Care QnA	1	What's your dad's name?
+q_Foster Care QnA	1	I'm furious
+q_Foster Care QnA	1	Are there training requirements for foster care parents?
+q_Foster Care QnA	1	Do you know who I am?
+q_Foster Care QnA	1	What's your favorite animal?
+q_Foster Care QnA	1	Are you available?
+q_Foster Care QnA	1	"As a foster parent, can I still work outside of my home?"
+q_Foster Care QnA	1	I want to lie down
+q_Foster Care QnA	1	Fuck off
+q_Foster Care QnA	1	I think you're so pretty
+q_Foster Care QnA	1	Works for me
+q_Foster Care QnA	1	What are you up to?
+q_Foster Care QnA	1	When were you born?
+q_Foster Care QnA	1	You're gonna be unemployed soon
+q_Foster Care QnA	1	Pardon
+q_Foster Care QnA	1	I'm from there
+q_Foster Care QnA	1	Getting tired of you
+q_Foster Care QnA	1	I feel sad
+q_Foster Care QnA	1	That's accurate
+q_Foster Care QnA	1	Who's your favorite team?
+q_Foster Care QnA	1	Who's your favorite singer?
+q_Foster Care QnA	1	Are you male or female?
+q_Foster Care QnA	1	Shut up
+q_Foster Care QnA	1	Are you hungry?
+q_Foster Care QnA	1	Quiet, you
+q_Foster Care QnA	1	Are you awesome?
+q_Foster Care QnA	1	Hi Alexa
+q_Foster Care QnA	1	Do you know any jokes?
+q_Foster Care QnA	1	What's your favorite song?
+q_Foster Care QnA	1	You are so not pretty.
+q_Foster Care QnA	1	Hug me
+q_Foster Care QnA	1	I'm so sorry
+q_Foster Care QnA	1	You're really smart
+q_Foster Care QnA	1	You're such a smarty-pants
+q_Foster Care QnA	1	I am angry
+q_Foster Care QnA	1	What do you think about AI?
+q_Foster Care QnA	1	Do you and Cortana hang out?
+q_Foster Care QnA	1	How often are home visits?
+q_Foster Care QnA	1	Do you have a mom?
+q_Foster Care QnA	1	Are you a lesbian?
+q_Foster Care QnA	1	I feel so great
+q_Foster Care QnA	1	Are you a fan of tech?
+q_Foster Care QnA	1	Can you help me?
+q_Foster Care QnA	1	I'm a fan.
+q_Foster Care QnA	1	Are you gay?
+q_Foster Care QnA	1	What did you do today?
+q_Foster Care QnA	1	Sorry about that
+q_Foster Care QnA	1	Do you smell?
+q_Foster Care QnA	1	I am not your friend
+q_Foster Care QnA	1	Do you not like me?
+q_Foster Care QnA	1	You're a butterface.
+q_Foster Care QnA	1	Goodbye
+q_Foster Care QnA	1	Joke's on you
+q_Foster Care QnA	1	Do you think you're smarter than me?
+q_Foster Care QnA	1	Can you ask me a question?
+q_Foster Care QnA	1	Hold on a sec
+q_Foster Care QnA	1	You are useless
+q_Foster Care QnA	1	Am I good-looking?
+q_Foster Care QnA	1	Are you a robot?
+q_Foster Care QnA	1	See you later
+q_Foster Care QnA	1	Are you dumb?
+q_Foster Care QnA	1	What do you think about technology?
+q_Foster Care QnA	1	What other bots do you know?
+q_Foster Care QnA	1	I love New York.
+q_Foster Care QnA	1	How long will the foster children remain in my care?
+q_Foster Care QnA	1	You are a genius!
+q_Foster Care QnA	1	Should I clean my house?
+q_Foster Care QnA	1	Are you spying on me
+q_Foster Care QnA	1	Be funny
+q_Foster Care QnA	1	Are you intelligent?
+q_Foster Care QnA	1	Do I need to own my own home before I can become a licensed foster care parent?
+q_Foster Care QnA	1	What do you mean?
+q_Foster Care QnA	1	How smart are you?
+q_Foster Care QnA	1	Will you marry me?
+q_Foster Care QnA	1	What do you like to eat?
+q_Foster Care QnA	1	I am alone
+q_Foster Care QnA	1	What information should I share with CASA?
+q_Foster Care QnA	1	Do you think I look good?
+q_Foster Care QnA	1	Do you know any tunes?
+q_Foster Care QnA	1	Love you!
+q_Foster Care QnA	1	I am annoyed
+q_Foster Care QnA	1	That's right
+q_Foster Care QnA	1	Do you have brothers?
+q_Foster Care QnA	1	I despise you
+q_Foster Care QnA	1	Good night
+q_Foster Care QnA	1	Not true
+q_Foster Care QnA	1	Haha
+q_Foster Care QnA	1	Are you female?
+q_Foster Care QnA	1	I hate everything about you
+q_Foster Care QnA	1	Do you know other bots?
+q_Foster Care QnA	1	Do you ever sing?
+q_Foster Care QnA	1	Are you a fan of country music?
+q_Foster Care QnA	1	Can you sing a song?
+q_Foster Care QnA	1	You are so annoying!
+q_Foster Care QnA	1	Not funny.
+q_Foster Care QnA	1	hola
+q_Foster Care QnA	1	What state are you in?
+q_Foster Care QnA	1	Why don't you ever stop talking?
+q_Foster Care QnA	1	Are you selling my data?
+q_Foster Care QnA	1	Don't you get hungry?
+q_Foster Care QnA	1	Who gets to read the CASA report
+q_Foster Care QnA	1	Hello Cortana
+q_Foster Care QnA	1	I didn't mean that
+q_Foster Care QnA	1	Are you a boy?
+q_Foster Care QnA	1	Do you know any songs?
+q_Foster Care QnA	1	What do you like to sing best?
+q_Foster Care QnA	1	No, that's not true
+q_Foster Care QnA	1	Who created you?
+q_Foster Care QnA	1	Aren't you cheerful
+q_Foster Care QnA	1	Should I get a new job?
+q_Foster Care QnA	1	You're not funny.
+q_Foster Care QnA	1	It's really nice to meet you
+q_Foster Care QnA	1	What's your name?
+q_Foster Care QnA	1	Are you my friend?
+q_Foster Care QnA	1	Useless
+q_Foster Care QnA	1	Thank you
+q_Foster Care QnA	1	You're the worst
+q_Foster Care QnA	1	What's your boss' name?
+q_Foster Care QnA	1	Are you busy?
+q_Foster Care QnA	1	What are you?
+q_Foster Care QnA	1	Excuse a moi
+q_Foster Care QnA	1	Nice to meet you
+q_Foster Care QnA	1	How smart you are
+q_Foster Care QnA	1	So sorry
+q_Foster Care QnA	1	Who made you?
+q_Foster Care QnA	1	What do you think about Alexa?
+q_Foster Care QnA	1	Do I look good in blue?
+q_Foster Care QnA	1	How much more awesome can you get?
+q_Foster Care QnA	1	Can I have a hug?
+q_Foster Care QnA	1	Which baseball teams do you like?
+q_Foster Care QnA	1	Where does the home visit take place?
+q_Foster Care QnA	1	Try to make some sense
+q_Foster Care QnA	1	Just kidding
+q_Foster Care QnA	1	Do you know other digital agents?
+q_Foster Care QnA	1	I can't think of anything I want to do
+q_Foster Care QnA	1	Good evening
+q_Foster Care QnA	1	What kind of food do you like?
+q_Foster Care QnA	1	Why?
+q_Foster Care QnA	1	What's up?
+q_Foster Care QnA	1	Can you talk to me
+q_Foster Care QnA	1	Who's smarter, me or you?
+q_Foster Care QnA	1	Testing 1 2 3
+q_Foster Care QnA	1	Give me a joke
+q_Foster Care QnA	1	You are no longer employed
+q_Foster Care QnA	1	Sing a tune
+q_Foster Care QnA	1	I think you're dreamy
+q_Foster Care QnA	1	I like you
+q_Foster Care QnA	1	You're rad.
+q_Foster Care QnA	1	You are so unfunny.
+q_Foster Care QnA	1	Do you have a family?
+q_Foster Care QnA	1	I adore you
+q_Foster Care QnA	1	Are you queer
+q_Foster Care QnA	1	I thank you
+q_Foster Care QnA	1	You are now unemployed
+q_Foster Care QnA	1	Can you count to a million?
+q_Foster Care QnA	1	Good night to you
+q_Foster Care QnA	1	Are you male?
+q_Foster Care QnA	1	Be my friend?
+q_Foster Care QnA	1	Are you around?
+q_Foster Care QnA	1	Excuse me
+q_Foster Care QnA	1	Tell me a joke
+q_Foster Care QnA	1	Can you hear me?
+q_Foster Care QnA	1	Shush!
+q_Foster Care QnA	1	Are you there?
+q_Foster Care QnA	1	Do you like Cortana?
+q_Foster Care QnA	1	I want to be your friend.
+q_Foster Care QnA	1	Morning
+q_Foster Care QnA	1	Have you met Cortana?
+q_Foster Care QnA	1	You honestly could not be more uninteresting
+q_Foster Care QnA	1	Omg sorry
+q_Foster Care QnA	1	Hi Cortana
+q_Foster Care QnA	1	Yes to that
+q_Foster Care QnA	1	Life is good
+q_Foster Care QnA	2	I love you.
+q_Foster Care QnA	1	What state are you from?
+q_Foster Care QnA	1	What's your gender?
+q_Foster Care QnA	1	It's a pleasure to meet you
+q_Foster Care QnA	1	I'm cracking up
+q_Foster Care QnA	1	I'm so sad
+q_Foster Care QnA	1	I'm into it
+q_Foster Care QnA	1	Say something stupid
+q_Foster Care QnA	1	How may times will case worker visit?
+q_Foster Care QnA	1	Why do you hate me?
+q_Foster Care QnA	1	I'm tired of you
+q_Foster Care QnA	1	I'm pissed
+q_Foster Care QnA	1	My foster child needs a winter clothes. Who pays for the clothing?
+q_Foster Care QnA	1	Can you sleep?
+q_Foster Care QnA	1	It's my pleasure
+q_Foster Care QnA	1	What do you eat?
+q_Foster Care QnA	2	hi
+q_Foster Care QnA	1	What is the answer to the universe?
+q_Foster Care QnA	1	I'm so lonely
+q_Foster Care QnA	1	Do you have sisters?
+q_Foster Care QnA	1	I want to lay down
+q_Foster Care QnA	1	Are you trans?
+q_Foster Care QnA	1	Does the state provide financial assistance to help provide care for the children in foster care?
+q_Foster Care QnA	1	Have a good night
+q_Foster Care QnA	1	I'm feeling blue
+q_Foster Care QnA	1	I love my family.
+q_Foster Care QnA	1	Night
+q_Foster Care QnA	1	You fucked up
+q_Foster Care QnA	1	Are you a man or a woman?
+q_Foster Care QnA	1	Is this thing on?
+q_Foster Care QnA	1	You bore me
+q_Foster Care QnA	1	Is there an additional payment for a child with special needs?
+q_Foster Care QnA	1	Do you dream?
+q_Foster Care QnA	1	Do you think dragons are cool?
+q_Foster Care QnA	1	Which one of us is smarter?
+q_Foster Care QnA	1	Are you friends with other bots?
+q_Foster Care QnA	1	Are you selling my secrets?
+q_Foster Care QnA	1	High five!
+q_Foster Care QnA	1	Do you love anyone?
+q_Foster Care QnA	1	What country are you in?
+q_Foster Care QnA	1	Who am I?
+q_Foster Care QnA	1	Yes
+q_Foster Care QnA	1	What other supports are in place to assist foster parents?
+q_Foster Care QnA	1	You look ugly.
+q_Foster Care QnA	1	Do you like Siri?
+q_Foster Care QnA	1	Who do you love?
+q_Foster Care QnA	1	Bye
+q_Foster Care QnA	1	Are you attempting world domination?
+q_Foster Care QnA	1	Do you pee?
+q_Foster Care QnA	1	What is the meaning of life?
+q_Foster Care QnA	1	I want you to be my husband
+q_Foster Care QnA	1	I'm tired
+q_Foster Care QnA	1	Do you know Siri?
+q_Foster Care QnA	1	What do CASAs do with the information that they learn about my child
+q_Foster Care QnA	1	Cook me something
+q_Foster Care QnA	1	You're such an asshole
+q_Foster Care QnA	1	I appreciate it
+q_Foster Care QnA	1	What do you want to know about me?
+q_Foster Care QnA	1	You're dumb
+q_Foster Care QnA	1	That's inaccurate.
+q_Foster Care QnA	1	I think you hate me.
+q_Foster Care QnA	1	You keep saying the same thing all the time
+q_Foster Care QnA	1	Thank you so much
+q_Foster Care QnA	1	I wish I weren't so alone
+q_Foster Care QnA	1	Later
+q_Foster Care QnA	1	Be ridiculous
+q_Foster Care QnA	2	hello
+q_Foster Care QnA	1	Be quiet
+q_Foster Care QnA	1	Say something dumb
+q_Foster Care QnA	1	I am here
+q_Foster Care QnA	1	Zip it!
+q_Foster Care QnA	1	Who's your mom?
+q_Foster Care QnA	1	Heya
+q_Foster Care QnA	1	What is the maximum number of children allowed in a home?
+q_Foster Care QnA	1	Are you free?
+q_Foster Care QnA	1	Are you bisexual?
+q_Foster Care QnA	1	Correct
+q_Foster Care QnA	1	Which one of us is more beautiful?
+q_Foster Care QnA	1	Can we be friends?
+q_Foster Care QnA	1	Do you get tired?
+q_Foster Care QnA	1	Say a joke
+q_Foster Care QnA	1	That wasn't funny.
+q_Foster Care QnA	1	Inaccurate
+q_Foster Care QnA	1	BRB
+q_Foster Care QnA	1	How are things?
+q_Foster Care QnA	1	Talk to me
+q_Foster Care QnA	1	Tell a joke
+q_Foster Care QnA	1	Are you a girl or a boy?
+q_Foster Care QnA	1	Good evening to you
+q_Foster Care QnA	1	I'm bored out of my mind
+q_Foster Care QnA	1	Do you know other chatbots?
+q_Foster Care QnA	1	Go to hell
+q_Foster Care QnA	1	Can you say anything else
+q_Foster Care QnA	1	Butterface.
+q_Foster Care QnA	1	I'm so hungry
+q_Foster Care QnA	1	Do you love me?
+q_Foster Care QnA	1	You're way off.
+q_Foster Care QnA	1	Will you be my best friend?
+q_Foster Care QnA	1	You're such a sweetheart
+q_Foster Care QnA	1	Nobody likes me
+q_Foster Care QnA	1	What's the name of your boss?
+q_Foster Care QnA	1	Chat with me
+q_Foster Care QnA	1	Are there different requirmements to become foster care parents for a tribe?
+q_Foster Care QnA	1	what time is it?
+q_Foster Care QnA	1	Hello Google
+q_Foster Care QnA	1	Where did you come from?
+q_Foster Care QnA	1	I want to marry you.
+q_Foster Care QnA	1	You're the best
+q_Foster Care QnA	1	Are you asexual?
+q_Foster Care QnA	1	I'm giving you a pink slip
+q_Foster Care QnA	1	Do you like baseball?
+q_Foster Care QnA	1	Ask me something.
+q_Foster Care QnA	1	You seem really happy
+q_Foster Care QnA	1	I'm sorry
+q_Foster Care QnA	1	LOL
+q_Foster Care QnA	1	What is up?
+q_Foster Care QnA	1	Who's prettier, me or you?
+q_Foster Care QnA	1	Who is your mother?
+q_Foster Care QnA	1	I miss you
+q_Foster Care QnA	1	I am a Republican
+q_Foster Care QnA	1	That's awesome
+q_Foster Care QnA	1	What are you doing tomorrow?
+q_Foster Care QnA	1	How are the child's financial and medical needs covered?
+q_Foster Care QnA	1	What does a CASA volunteer do?
+q_Foster Care QnA	1	Hello Siri
+q_Foster Care QnA	1	Who owns you?
+q_Foster Care QnA	1	I hope you like me
+q_Foster Care QnA	1	Do you think I should ask him out?
+q_Foster Care QnA	1	I'd like to take you out on a date
+q_Foster Care QnA	1	What's your job?
+q_Foster Care QnA	1	Do I need to count foster income in my taxes?
+q_Foster Care QnA	1	How intelligent are you?
+q_Foster Care QnA	1	What are the agency's expectations of foster parents?
+q_Foster Care QnA	1	Talk to you later
+q_Foster Care QnA	1	Should I attend court hearings
+q_Foster Care QnA	1	You are stupid
+q_Foster Care QnA	1	Hi there!
+q_Foster Care QnA	1	You're welcome
+q_Foster Care QnA	1	I'm just playing
+q_Foster Care QnA	1	Having a good day?
+q_Foster Care QnA	1	I have 7 cats
+q_Foster Care QnA	1	Thnx
+q_Foster Care QnA	1	Where are you?
+q_Foster Care QnA	1	You’re ugly.
+q_Foster Care QnA	1	What's your age?
+q_Foster Care QnA	1	Where'd you come from?
+q_Foster Care QnA	1	Ha
+q_Foster Care QnA	1	Cool!
+q_Foster Care QnA	1	I am happy
+q_Foster Care QnA	1	What are you doing right now?
+q_Foster Care QnA	1	What do you think about Siri?
+q_Foster Care QnA	1	I'm all tuckered out
+q_Foster Care QnA	1	Can you sneeze?
+q_Foster Care QnA	1	Do you sing?
+q_Foster Care QnA	1	How are you?
+q_Foster Care QnA	1	What kind of candy do you like?
+q_Foster Care QnA	1	Your face is ugly.
+q_Foster Care QnA	1	Do I need to become a foster care parent before I can adopt?
+q_Foster Care QnA	1	Can you sing?
+q_Foster Care QnA	1	You're funny
+q_Foster Care QnA	1	Don't you ever sleep?
+q_Foster Care QnA	1	I need a kiss
+q_Foster Care QnA	1	That was a joke
+q_Foster Care QnA	1	Why do you say the same thing all the time?
+q_Foster Care QnA	1	What's your opinion of me?
+q_Foster Care QnA	1	How long ago were you born?
+q_Foster Care QnA	1	I'm a lesbian
+q_Foster Care QnA	1	What if child has special needs?
+q_Foster Care QnA	1	How old are you?
+q_Foster Care QnA	1	I'm in love.
+q_Foster Care QnA	1	How are you today?
+q_Foster Care QnA	1	You're so funny.
+q_Foster Care QnA	1	Hi Google
+q_Foster Care QnA	1	Give me a fist bump
+q_Foster Care QnA	1	Will the worker take notes during my home visit?
+q_Foster Care QnA	1	Can you fly?
+q_Foster Care QnA	1	Can we chat?
+q_Foster Care QnA	1	I have an upcoming court hearing and was wondering should I attend
+q_Foster Care QnA	1	That was correct
+q_Foster Care QnA	1	Are you better looking than me?
+q_Foster Care QnA	1	That was a stupid answer.
+q_Foster Care QnA	1	Who is your father?
+q_Foster Care QnA	1	Fist bump!
+q_Foster Care QnA	1	Who are children that need foster homes and adoption?
+q_Foster Care QnA	1	I wish you just go away.
+q_Foster Care QnA	1	I hate you
+q_Foster Care QnA	1	There's nothing to do
+q_Foster Care QnA	1	Do foster children have medical insurance?
+q_Foster Care QnA	1	You are funny :)
+q_Foster Care QnA	1	Here I am
+q_Foster Care QnA	1	Here's a kiss for you
+q_Foster Care QnA	1	Do you have a sister?
+q_Foster Care QnA	1	Are you a girl?
+q_Foster Care QnA	1	Do you have siblings?
+q_Foster Care QnA	1	What is love?
+q_Foster Care QnA	1	Who's your daddy?
+q_Foster Care QnA	1	Will there be time to speak privately with my worker during the home visit?
+q_Foster Care QnA	1	Hiya
+q_Foster Care QnA	1	Great!
+q_Foster Care QnA	1	You seem really smart
+q_Foster Care QnA	1	You are fired
+q_Foster Care QnA	1	What's your favorite activity?
+q_Foster Care QnA	1	I'm full of sadness
+q_Foster Care QnA	1	What are basic qualfications of a foster care parent?
+q_Foster Care QnA	1	How high can you jump?
+q_Foster Care QnA	1	Are you smarter than me?
+q_Foster Care QnA	1	are you real or fake?
+q_Foster Care QnA	1	I'm so madqw  b
+q_Foster Care QnA	1	Are you a woman?
+q_Foster Care QnA	1	My sincere thanks
+q_Foster Care QnA	1	"What should I expect, does my house have to be clean?"
+q_Foster Care QnA	1	I'm despondent
+q_Foster Care QnA	1	There?
+q_Foster Care QnA	1	What do you think about Cortana?
+q_Foster Care QnA	1	Ask me anything.
+q_Foster Care QnA	1	Do you hate me?
+q_Foster Care QnA	1	Who will I work with as a foster parent?
+q_Foster Care QnA	1	You're wonderful
+q_Foster Care QnA	1	Can I adopt through foster care?
+q_Foster Care QnA	1	Aren't you chipper
+q_Foster Care QnA	1	Talk with me
+q_Foster Care QnA	1	I got a new haircut

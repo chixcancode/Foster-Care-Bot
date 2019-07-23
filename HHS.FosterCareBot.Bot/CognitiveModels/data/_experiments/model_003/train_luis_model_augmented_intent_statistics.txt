@@ -1,0 +1,5 @@
+No	Intent	Utterance Count	Utterance Average Length	Utterance Maximum Length	Utterance Minimum Length	Utterance Length StdDev
+0	l_FosterCare	48	30.70833	75	3	12.66921
+1	q_FosterCare-qna	6889	23.17013	142	1	9.63626
+2	None	23	39.13043	87	3	25.37949
+ 	__ALL__	6960	23.27486	142	1	9.81088

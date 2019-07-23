@@ -1,0 +1,26 @@
+{
+    "name": "Foster Care Bot",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages",
+            "id": "e78ac510-83a3-11e9-909b-b5dc298e2509",
+            "name": "http://localhost:3978/api/messages"
+        },
+        {
+            "type": "endpoint",
+            "appId": "fe67593d-d444-4680-9ecb-8ce6784458ef",
+            "appPassword": "*Px3_H@cn/UKoIUmfkavOYZuuLKK1z58",
+            "endpoint": "http://localhost:3978/api/messages",
+            "name": "BotAppid",
+            "id": "98"
+        }
+    ],
+    "padlock": "",
+    "version": "2.0",
+    "path": "C:\\code\\HHS\\src\\HHS.FosterCareBot.Bot\\Foster Care Bot.bot",
+    "overrides": null
+}

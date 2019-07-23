@@ -1,0 +1,163 @@
+Label	Weight	Text
+l_Child Welfare LUIS	56.3	i am looking for child care providers in chicago
+l_Child Welfare LUIS	56.3	do i have any court dates
+l_Child Welfare LUIS	56.3	are there approved child care providers near me?
+l_Child Welfare LUIS	56.3	i need to find places to donate clothes
+l_Child Welfare LUIS	56.3	do i have any upcoming appointments?
+l_Child Welfare LUIS	56.3	see ya later
+l_Child Welfare LUIS	56.3	do i have upcoming court date
+l_Child Welfare LUIS	56.3	i'm looking for wic locations in 20876
+l_Child Welfare LUIS	56.3	i need a list of wic locations
+l_Child Welfare LUIS	56.3	get child care providers
+None	46.91666	i have a court hearing coming up and i was wondering is it important that i attend?
+None	46.91666	where are dmv locations near me
+None	46.91666	do i need to count the foster care income i receive?
+None	46.91666	is it important to attend court hearings?
+None	46.91666	i need to find a dmv
+None	46.91666	thanks
+None	46.91666	i have a court hearing coming up and i was wondering is it important that i attend?
+None	46.91666	where are dmv locations near me
+None	46.91666	do i need to count the foster care income i receive?
+None	46.91666	is it important to attend court hearings?
+None	46.91666	i need to find a dmv
+None	46.91666	thanks
+q_Foster Care QnA	4.021429	You face sucks.
+q_Foster Care QnA	4.021429	You're boring
+q_Foster Care QnA	4.021429	You suck
+q_Foster Care QnA	4.021429	That's hilarious
+q_Foster Care QnA	4.021429	You are my best friend
+q_Foster Care QnA	4.021429	Am I a good person?
+q_Foster Care QnA	4.021429	You're awful
+q_Foster Care QnA	4.021429	Hum a tune
+q_Foster Care QnA	4.021429	What's your purpose?
+q_Foster Care QnA	4.021429	Why is sky blue?
+q_Foster Care QnA	4.021429	You must hate me.
+q_Foster Care QnA	4.021429	That made no sense
+q_Foster Care QnA	4.021429	Who are you?
+q_Foster Care QnA	4.021429	How do I look today?
+q_Foster Care QnA	4.021429	Go away
+q_Foster Care QnA	4.021429	Do you eat?
+q_Foster Care QnA	4.021429	Yes, that's true
+q_Foster Care QnA	4.021429	I just want to go to sleep
+q_Foster Care QnA	4.021429	Do i have to claim foster care payments?
+q_Foster Care QnA	4.021429	Back in a minute
+q_Foster Care QnA	4.021429	What is the purpose of a home visit?
+q_Foster Care QnA	4.021429	BFFs forever?
+q_Foster Care QnA	4.021429	What do I do if there is an emergency?
+q_Foster Care QnA	4.021429	I want to spend the rest of my life with you
+q_Foster Care QnA	4.021429	What's your dad's name?
+q_Foster Care QnA	4.021429	I'm furious
+q_Foster Care QnA	4.021429	Are there training requirements for foster care parents?
+q_Foster Care QnA	4.021429	Do you know who I am?
+q_Foster Care QnA	4.021429	What's your favorite animal?
+q_Foster Care QnA	4.021429	Are you available?
+q_Foster Care QnA	4.021429	"As a foster parent, can I still work outside of my home?"
+q_Foster Care QnA	4.021429	I want to lie down
+q_Foster Care QnA	4.021429	Fuck off
+q_Foster Care QnA	4.021429	I think you're so pretty
+q_Foster Care QnA	4.021429	Works for me
+q_Foster Care QnA	4.021429	What are you up to?
+q_Foster Care QnA	4.021429	When were you born?
+q_Foster Care QnA	4.021429	You're gonna be unemployed soon
+q_Foster Care QnA	4.021429	Pardon
+q_Foster Care QnA	4.021429	I'm from there
+q_Foster Care QnA	4.021429	Getting tired of you
+q_Foster Care QnA	4.021429	I feel sad
+q_Foster Care QnA	4.021429	That's accurate
+q_Foster Care QnA	4.021429	Who's your favorite team?
+q_Foster Care QnA	4.021429	Who's your favorite singer?
+q_Foster Care QnA	4.021429	Are you male or female?
+q_Foster Care QnA	4.021429	Shut up
+q_Foster Care QnA	4.021429	Are you hungry?
+q_Foster Care QnA	4.021429	Quiet, you
+q_Foster Care QnA	4.021429	Are you awesome?
+q_Foster Care QnA	4.021429	Hi Alexa
+q_Foster Care QnA	4.021429	Do you know any jokes?
+q_Foster Care QnA	4.021429	What's your favorite song?
+q_Foster Care QnA	4.021429	You are so not pretty.
+q_Foster Care QnA	4.021429	Hug me
+q_Foster Care QnA	4.021429	I'm so sorry
+q_Foster Care QnA	4.021429	You're really smart
+q_Foster Care QnA	4.021429	You're such a smarty-pants
+q_Foster Care QnA	4.021429	I am angry
+q_Foster Care QnA	4.021429	What do you think about AI?
+q_Foster Care QnA	4.021429	Do you and Cortana hang out?
+q_Foster Care QnA	4.021429	How often are home visits?
+q_Foster Care QnA	4.021429	Do you have a mom?
+q_Foster Care QnA	4.021429	Are you a lesbian?
+q_Foster Care QnA	4.021429	I feel so great
+q_Foster Care QnA	4.021429	Are you a fan of tech?
+q_Foster Care QnA	4.021429	Can you help me?
+q_Foster Care QnA	4.021429	I'm a fan.
+q_Foster Care QnA	4.021429	Are you gay?
+q_Foster Care QnA	4.021429	What did you do today?
+q_Foster Care QnA	4.021429	Sorry about that
+q_Foster Care QnA	4.021429	Do you smell?
+q_Foster Care QnA	4.021429	I am not your friend
+q_Foster Care QnA	4.021429	Do you not like me?
+q_Foster Care QnA	4.021429	You're a butterface.
+q_Foster Care QnA	4.021429	Goodbye
+q_Foster Care QnA	4.021429	Joke's on you
+q_Foster Care QnA	4.021429	Do you think you're smarter than me?
+q_Foster Care QnA	4.021429	Can you ask me a question?
+q_Foster Care QnA	4.021429	Hold on a sec
+q_Foster Care QnA	4.021429	You are useless
+q_Foster Care QnA	4.021429	Am I good-looking?
+q_Foster Care QnA	4.021429	Are you a robot?
+q_Foster Care QnA	4.021429	See you later
+q_Foster Care QnA	4.021429	Are you dumb?
+q_Foster Care QnA	4.021429	What do you think about technology?
+q_Foster Care QnA	4.021429	What other bots do you know?
+q_Foster Care QnA	4.021429	I love New York.
+q_Foster Care QnA	4.021429	How long will the foster children remain in my care?
+q_Foster Care QnA	4.021429	You are a genius!
+q_Foster Care QnA	4.021429	Should I clean my house?
+q_Foster Care QnA	4.021429	Are you spying on me
+q_Foster Care QnA	4.021429	Be funny
+q_Foster Care QnA	4.021429	Are you intelligent?
+q_Foster Care QnA	4.021429	Do I need to own my own home before I can become a licensed foster care parent?
+q_Foster Care QnA	4.021429	What do you mean?
+q_Foster Care QnA	4.021429	How smart are you?
+q_Foster Care QnA	4.021429	Will you marry me?
+q_Foster Care QnA	4.021429	What do you like to eat?
+q_Foster Care QnA	4.021429	I am alone
+q_Foster Care QnA	4.021429	What information should I share with CASA?
+q_Foster Care QnA	4.021429	Do you think I look good?
+q_Foster Care QnA	4.021429	Do you know any tunes?
+q_Foster Care QnA	4.021429	Love you!
+q_Foster Care QnA	4.021429	I am annoyed
+q_Foster Care QnA	4.021429	That's right
+q_Foster Care QnA	4.021429	Do you have brothers?
+q_Foster Care QnA	4.021429	I despise you
+q_Foster Care QnA	4.021429	Good night
+q_Foster Care QnA	4.021429	Not true
+q_Foster Care QnA	4.021429	Haha
+q_Foster Care QnA	4.021429	Are you female?
+q_Foster Care QnA	4.021429	I hate everything about you
+q_Foster Care QnA	4.021429	Do you know other bots?
+q_Foster Care QnA	4.021429	Do you ever sing?
+q_Foster Care QnA	4.021429	Are you a fan of country music?
+q_Foster Care QnA	4.021429	Can you sing a song?
+q_Foster Care QnA	4.021429	You are so annoying!
+q_Foster Care QnA	4.021429	Not funny.
+q_Foster Care QnA	4.021429	hola
+q_Foster Care QnA	4.021429	What state are you in?
+q_Foster Care QnA	4.021429	Why don't you ever stop talking?
+q_Foster Care QnA	4.021429	Are you selling my data?
+q_Foster Care QnA	4.021429	Don't you get hungry?
+q_Foster Care QnA	4.021429	Who gets to read the CASA report
+q_Foster Care QnA	4.021429	Hello Cortana
+q_Foster Care QnA	4.021429	I didn't mean that
+q_Foster Care QnA	4.021429	Are you a boy?
+q_Foster Care QnA	4.021429	Do you know any songs?
+q_Foster Care QnA	4.021429	What do you like to sing best?
+q_Foster Care QnA	4.021429	No, that's not true
+q_Foster Care QnA	4.021429	Who created you?
+q_Foster Care QnA	4.021429	Aren't you cheerful
+q_Foster Care QnA	4.021429	Should I get a new job?
+q_Foster Care QnA	4.021429	You're not funny.
+q_Foster Care QnA	4.021429	It's really nice to meet you
+q_Foster Care QnA	4.021429	What's your name?
+q_Foster Care QnA	4.021429	Are you my friend?
+q_Foster Care QnA	4.021429	Useless
+q_Foster Care QnA	4.021429	Thank you

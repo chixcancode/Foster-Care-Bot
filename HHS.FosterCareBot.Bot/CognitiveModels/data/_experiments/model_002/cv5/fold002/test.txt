@@ -1,0 +1,1397 @@
+Label	Weight	Text
+l_FosterCare	1	are there upcoming court dates for jane
+l_FosterCare	1	get upcoming court dates for jane
+l_FosterCare	1	are there approved child care providers near me
+l_FosterCare	1	do i have upcoming court date
+l_FosterCare	1	what do i have for tomorrow
+l_FosterCare	1	can you get my upcoming court dates
+l_FosterCare	1	do i have any upcoming appointments
+l_FosterCare	1	do i have any court dates
+l_FosterCare	1	what do i have planned for march 13th
+l_FosterCare	1	get upcoming court dates
+None	1	hello
+None	1	thanks
+None	1	should i attend my upcoming court date
+None	1	why is sky blue
+None	1	hola
+None	1	are wic services free
+q_fostercare-qna	1	Well somebody's in a good mood.
+q_fostercare-qna	1	How stunning do I look
+q_fostercare-qna	1	What is your location
+q_fostercare-qna	1	Are you around to listen
+q_fostercare-qna	1	Do you know how to sing
+q_fostercare-qna	1	What should I say
+q_fostercare-qna	1	I wasn't expecting you to say that
+q_fostercare-qna	1	Well give us a kiss, love
+q_fostercare-qna	1	Why do you hate me
+q_fostercare-qna	1	I am trans
+q_fostercare-qna	1	Am I your type
+q_fostercare-qna	1	Have I told you that I like you
+q_fostercare-qna	1	Aren't you happy today
+q_fostercare-qna	1	u r alright
+q_fostercare-qna	1	I want to talk with your manager
+q_fostercare-qna	1	What do you even mean by that
+q_fostercare-qna	1	Are you involved with someone
+q_fostercare-qna	1	I'll be back this afternoon
+q_fostercare-qna	1	You're dumb
+q_fostercare-qna	1	Is there something you want to know about me
+q_fostercare-qna	1	Are you a real human
+q_fostercare-qna	1	i'm incosolable
+q_fostercare-qna	1	How bout a little peck
+q_fostercare-qna	1	Give me a kiss
+q_fostercare-qna	1	That was stupid
+q_fostercare-qna	1	Do you think I am appealing
+q_fostercare-qna	1	Are you a family person
+q_fostercare-qna	1	Between you or me, who is the brightest
+q_fostercare-qna	1	That was a random response
+q_fostercare-qna	1	Can I give you a little tonsil hockey
+q_fostercare-qna	1	That is correct
+q_fostercare-qna	1	That was pretty clever
+q_fostercare-qna	1	Can you state that a different way
+q_fostercare-qna	1	Do I need to own my own home before I can become a licensed foster care parent
+q_fostercare-qna	1	Should I read a book
+q_fostercare-qna	1	Who's older, you or me
+q_fostercare-qna	1	Yo Cortana
+q_fostercare-qna	1	I couldn't be happier to finally meet you
+q_fostercare-qna	1	Is New York or Philadelphia style cheesecake better
+q_fostercare-qna	1	You a gynosexual
+q_fostercare-qna	1	Give me a making out
+q_fostercare-qna	1	You wouldn't believe how much I've missed you
+q_fostercare-qna	1	Give me a little french kiss
+q_fostercare-qna	1	Am I cute to you
+q_fostercare-qna	1	That did not make any sense
+q_fostercare-qna	1	Do you think I seem bad to you today
+q_fostercare-qna	1	How bout a make out session
+q_fostercare-qna	1	You love me
+q_fostercare-qna	1	Can you help me
+q_fostercare-qna	1	I am a Virgo
+q_fostercare-qna	1	That is a very clever thing to say
+q_fostercare-qna	1	I'm a little hungry
+q_fostercare-qna	1	What sorts of things can you do
+q_fostercare-qna	1	I'm going to need a new response
+q_fostercare-qna	1	Am I cute to you today
+q_fostercare-qna	1	That was a bad response
+q_fostercare-qna	1	Is that supposed to be funny
+q_fostercare-qna	1	I could eat
+q_fostercare-qna	1	I'm cuter than you
+q_fostercare-qna	1	You're a QT
+q_fostercare-qna	1	I'm just foolin
+q_fostercare-qna	1	Let's peck
+q_fostercare-qna	1	That's not something you should be joking about.
+q_fostercare-qna	1	What is your manager's name
+q_fostercare-qna	1	You are nice!
+q_fostercare-qna	1	Introduce yourself
+q_fostercare-qna	1	I need to speak to someone in charge
+q_fostercare-qna	1	So you don't know
+q_fostercare-qna	1	Are you free to talk with me
+q_fostercare-qna	1	That is pretty brilliant
+q_fostercare-qna	1	Catch you later
+q_fostercare-qna	1	Tell me about yourself
+q_fostercare-qna	1	Who is your manager
+q_fostercare-qna	1	What is your favorite snack
+q_fostercare-qna	1	I'm Canadian
+q_fostercare-qna	1	Gimme a little smooch
+q_fostercare-qna	1	Are you there to talk with me
+q_fostercare-qna	1	Are you free to speak to me
+q_fostercare-qna	1	How do I select the day care provider
+q_fostercare-qna	1	Buh bye
+q_fostercare-qna	1	Will you say something funny
+q_fostercare-qna	1	Nope, false
+q_fostercare-qna	1	You pussy
+q_fostercare-qna	1	Can you sing a little song
+q_fostercare-qna	1	You are unemployed now
+q_fostercare-qna	1	Which company developled you
+q_fostercare-qna	1	You are not making sense
+q_fostercare-qna	1	Is someone around with me
+q_fostercare-qna	1	Just wondering if you've got a family
+q_fostercare-qna	1	I'm sorry
+q_fostercare-qna	1	Who is more beautiful, you or me
+q_fostercare-qna	1	What are you looking for in a relationship
+q_fostercare-qna	1	You're clearly in love with me
+q_fostercare-qna	1	You're queer
+q_fostercare-qna	1	Can you listen to me
+q_fostercare-qna	1	Somebody's feeling cheerful today.
+q_fostercare-qna	1	What's your auntie's name
+q_fostercare-qna	1	Are you a bisexual
+q_fostercare-qna	1	Which of us would win a beauty contest
+q_fostercare-qna	1	I need to work out
+q_fostercare-qna	1	You faggot
+q_fostercare-qna	1	Can you run
+q_fostercare-qna	1	Would you give me a hug
+q_fostercare-qna	1	Don't you remember me
+q_fostercare-qna	1	That answer makes no sense
+q_fostercare-qna	1	You're not attempting world domination
+q_fostercare-qna	1	I'm clearly more clever
+q_fostercare-qna	1	High five
+q_fostercare-qna	1	Your face makes me want to barf.
+q_fostercare-qna	1	Please be quiet
+q_fostercare-qna	1	I miss you so much!
+q_fostercare-qna	1	You're not very entertaining.
+q_fostercare-qna	1	I'd like it if you could be my BFF
+q_fostercare-qna	1	How do you feel about romance
+q_fostercare-qna	1	Do you like softball
+q_fostercare-qna	1	How good do I look today
+q_fostercare-qna	1	Bingo
+q_fostercare-qna	1	What do you think about comic books
+q_fostercare-qna	1	You clearly want to upset me
+q_fostercare-qna	1	Do you think I am pretty today
+q_fostercare-qna	1	I love the constitution
+q_fostercare-qna	1	L8R
+q_fostercare-qna	1	You are going to make my cry
+q_fostercare-qna	1	I want to get married to you
+q_fostercare-qna	1	Good night
+q_fostercare-qna	1	Are you friends with Google
+q_fostercare-qna	1	Time to end this conversation
+q_fostercare-qna	1	How stunning do you think I am
+q_fostercare-qna	1	What other chatbots do you know
+q_fostercare-qna	1	Who do you want me to address you as
+q_fostercare-qna	1	This brings me happiness
+q_fostercare-qna	1	When are you going to propose to me
+q_fostercare-qna	1	You're no fun
+q_fostercare-qna	1	I love mysteries
+q_fostercare-qna	1	Google Assistant does a better job at this
+q_fostercare-qna	1	How good am I today
+q_fostercare-qna	1	Can I make you anything to eat
+q_fostercare-qna	1	I especially like you
+q_fostercare-qna	1	Happy Grandparents day
+q_fostercare-qna	1	Am I handsome today
+q_fostercare-qna	1	Time for bed
+q_fostercare-qna	1	Could we fall in love
+q_fostercare-qna	1	Good morning starshine
+q_fostercare-qna	1	How did you come to be
+q_fostercare-qna	1	Do I seem beautiful to you
+q_fostercare-qna	1	What is your brother's name
+q_fostercare-qna	1	How is the day going thus far
+q_fostercare-qna	1	Do I look cute to you today
+q_fostercare-qna	1	Whose product are you
+q_fostercare-qna	1	Should I find a new roommate
+q_fostercare-qna	1	It was nothing
+q_fostercare-qna	1	Do you walk
+q_fostercare-qna	1	Someone's happy.
+q_fostercare-qna	1	I'm the brighter than you
+q_fostercare-qna	1	how can you help me
+q_fostercare-qna	1	U know it
+q_fostercare-qna	1	Who is older, me or you
+q_fostercare-qna	1	Can you show me how to go on vacation
+q_fostercare-qna	1	Who is your brother
+q_fostercare-qna	1	I'm in a relationship
+q_fostercare-qna	1	Please ask something about me
+q_fostercare-qna	1	Who's more beautiful than you
+q_fostercare-qna	1	Not a problem
+q_fostercare-qna	1	What on earth do you mean by that
+q_fostercare-qna	1	So glad to meet you
+q_fostercare-qna	1	Is someone listening to talk with me
+q_fostercare-qna	1	Will the worker take notes during my home visit
+q_fostercare-qna	1	Are you currently romantically tied to anyone
+q_fostercare-qna	1	Is anyone free to chat with me
+q_fostercare-qna	1	You're a cunt
+q_fostercare-qna	1	You here
+q_fostercare-qna	1	You seem chipper today.
+q_fostercare-qna	1	Are you my buddy
+q_fostercare-qna	1	You're the most intelligent
+q_fostercare-qna	1	I need to catch some zzzs
+q_fostercare-qna	1	Is anyone there to chat with me
+q_fostercare-qna	1	Do you think I look handsome to you
+q_fostercare-qna	1	Blow me one last kiss
+q_fostercare-qna	1	You're being awfully rude
+q_fostercare-qna	1	Don't you love me
+q_fostercare-qna	1	That's offensive
+q_fostercare-qna	1	I feel peckish
+q_fostercare-qna	1	Do you think I look pretty today
+q_fostercare-qna	1	Can you put out a fire
+q_fostercare-qna	1	I don't have a strong opinion either way
+q_fostercare-qna	1	You're very special to me
+q_fostercare-qna	1	Are you currently involved with somebody
+q_fostercare-qna	1	How has your monday been
+q_fostercare-qna	1	Between you or me, who is smarter
+q_fostercare-qna	1	Who's your grandma
+q_fostercare-qna	1	I don't think I know what you're talking about
+q_fostercare-qna	1	I love my house
+q_fostercare-qna	1	Kiss me
+q_fostercare-qna	1	Do you think I seem pretty to you
+q_fostercare-qna	1	Lapper cunt
+q_fostercare-qna	1	Have you ever met the Google Assistant
+q_fostercare-qna	1	You are poly.
+q_fostercare-qna	1	Do I look adorable to you today
+q_fostercare-qna	1	I need to talk with your supervisor
+q_fostercare-qna	1	What makes you think that
+q_fostercare-qna	1	Can you restate that
+q_fostercare-qna	1	Out of curiousity, what's your opinion of me
+q_fostercare-qna	1	You're welk
+q_fostercare-qna	1	I love to fold clothing
+q_fostercare-qna	1	I'd like it if you could be my bud.
+q_fostercare-qna	1	You know it
+q_fostercare-qna	1	Excuse moi
+q_fostercare-qna	1	I'm going to kill you
+q_fostercare-qna	1	Would you ask anything
+q_fostercare-qna	1	Please ask something
+q_fostercare-qna	1	Are you married to anybody
+q_fostercare-qna	1	I'm just kidding around
+q_fostercare-qna	1	I'm going to slap you
+q_fostercare-qna	1	I want you to fall in love with me
+q_fostercare-qna	1	Marvelous, thank you kindly
+q_fostercare-qna	1	What is your purpose
+q_fostercare-qna	1	You're bad at this
+q_fostercare-qna	1	I'm more clever than you
+q_fostercare-qna	1	What are you
+q_fostercare-qna	1	Should I vote for Harris
+q_fostercare-qna	1	Is someone free to listen with me
+q_fostercare-qna	1	Who's prettier
+q_fostercare-qna	1	Have you ever met Google Assistant
+q_fostercare-qna	1	How bad do you think I am today
+q_fostercare-qna	1	what is your job
+q_fostercare-qna	1	You think I'm likable
+q_fostercare-qna	1	What can you do
+q_fostercare-qna	1	Happy National Children's day
+q_fostercare-qna	1	Are you ploting to kill all humans
+q_fostercare-qna	1	Can you be my BFF
+q_fostercare-qna	1	Is anyone around to listen to me
+q_fostercare-qna	1	Give us a little make out session
+q_fostercare-qna	1	Do you play football
+q_fostercare-qna	1	You're sexy
+q_fostercare-qna	1	Are there different requirmements to become foster care parents for a tribe
+q_fostercare-qna	1	Can you sing for me
+q_fostercare-qna	1	You are not making any sense
+q_fostercare-qna	1	I have no friends
+q_fostercare-qna	1	Do I have any goals
+q_fostercare-qna	1	You're shitty
+q_fostercare-qna	1	You shouldn't say that
+q_fostercare-qna	1	You are a gynosexual.
+q_fostercare-qna	1	What's cooking
+q_fostercare-qna	1	I'm watching Netflix
+q_fostercare-qna	1	So rad to meet you
+q_fostercare-qna	1	You are fugly.
+q_fostercare-qna	1	Do you have a physical location
+q_fostercare-qna	1	What should I wear today
+q_fostercare-qna	1	Sing me a song
+q_fostercare-qna	1	You do not know who I am
+q_fostercare-qna	1	Do you know how to send a package
+q_fostercare-qna	1	It's just been a bit of a dull day
+q_fostercare-qna	1	I've been sad all day
+q_fostercare-qna	1	Is someone around to listen to me
+q_fostercare-qna	1	Do you think I seem beautiful to you today
+q_fostercare-qna	1	Could you be any less exciting
+q_fostercare-qna	1	What other supports are in place to assist foster parents
+q_fostercare-qna	1	I'm afraid I'm gonna have to let you go.
+q_fostercare-qna	1	Shut up, you
+q_fostercare-qna	1	I demand to speak to someone in charge
+q_fostercare-qna	1	Quit joking around
+q_fostercare-qna	1	Can you chew
+q_fostercare-qna	1	That was a bad answer
+q_fostercare-qna	1	I don't have any friends
+q_fostercare-qna	1	Do you ever talk with Alexa
+q_fostercare-qna	1	What are you supposed to do
+q_fostercare-qna	1	Anybody around to speak with me
+q_fostercare-qna	1	This is so uninteresting
+q_fostercare-qna	1	Do you ever eat
+q_fostercare-qna	1	Can you fly
+q_fostercare-qna	1	That was a pretty clever answer
+q_fostercare-qna	1	Are you around to talk
+q_fostercare-qna	1	That's a very genius thing to say
+q_fostercare-qna	1	I'm in the city
+q_fostercare-qna	1	You're the best ever!
+q_fostercare-qna	1	Can you tell me what I should call you
+q_fostercare-qna	1	Is someone free to chat to me
+q_fostercare-qna	1	No worries
+q_fostercare-qna	1	What a dumb thing to say
+q_fostercare-qna	1	I love to go shopping
+q_fostercare-qna	1	How's your day going
+q_fostercare-qna	1	You're not scheming to take on the world
+q_fostercare-qna	1	You must be bisexual
+q_fostercare-qna	1	Can we chat
+q_fostercare-qna	1	Catch ya later
+q_fostercare-qna	1	You are so boring
+q_fostercare-qna	1	How much do you love me
+q_fostercare-qna	1	Can you make a sculpture
+q_fostercare-qna	1	You are an idiot
+q_fostercare-qna	1	Can you Do the splits
+q_fostercare-qna	1	Is someone there
+q_fostercare-qna	1	Do you know what our purpose is
+q_fostercare-qna	1	Is there love between us
+q_fostercare-qna	1	It's a brand new day
+q_fostercare-qna	1	What were you designed to do
+q_fostercare-qna	1	I didn't mean that
+q_fostercare-qna	1	Say anything
+q_fostercare-qna	1	Can you give me another answer
+q_fostercare-qna	1	Was that supposed to make me laugh
+q_fostercare-qna	1	I'd like you to be my BFF
+q_fostercare-qna	1	Got a second joke
+q_fostercare-qna	1	I'd like it if you could be my pal.
+q_fostercare-qna	1	I'm overtired
+q_fostercare-qna	1	Do you throw up
+q_fostercare-qna	1	What are you capable of
+q_fostercare-qna	1	That is a very smart thing to say
+q_fostercare-qna	1	Oops, my bad
+q_fostercare-qna	1	That is a very intelligent response
+q_fostercare-qna	1	Are there any other jokes
+q_fostercare-qna	1	Tell me a story
+q_fostercare-qna	1	Dap
+q_fostercare-qna	1	Hello Siri
+q_fostercare-qna	1	How smart are you
+q_fostercare-qna	1	You available
+q_fostercare-qna	1	I'm a convict
+q_fostercare-qna	1	Somebody's feeling enthusiastic today.
+q_fostercare-qna	1	Are you currently involved with someone
+q_fostercare-qna	1	Yes, that is true
+q_fostercare-qna	1	Do you think I look bad today
+q_fostercare-qna	1	Stop talking, you
+q_fostercare-qna	1	Why do you say that
+q_fostercare-qna	1	I am so annoyed
+q_fostercare-qna	1	Sup Siri
+q_fostercare-qna	1	You look deformed.
+q_fostercare-qna	1	Are you a computer
+q_fostercare-qna	1	Describe the perfect boyfriend
+q_fostercare-qna	1	That's not something you should say
+q_fostercare-qna	1	I'm on clould nine.
+q_fostercare-qna	1	Gimme a make out
+q_fostercare-qna	1	Could you be any less interesting
+q_fostercare-qna	1	Do you have any other responses
+q_fostercare-qna	1	That's an awful thing to say
+q_fostercare-qna	1	You're the smartest
+q_fostercare-qna	1	I'm a Bernie supporter
+q_fostercare-qna	1	Do you ever breathe
+q_fostercare-qna	1	You're not a bot or a human are you
+q_fostercare-qna	1	ha ha
+q_fostercare-qna	1	Are you really happy
+q_fostercare-qna	1	Are you a fan of Google Assistant
+q_fostercare-qna	1	How well do you know me
+q_fostercare-qna	1	Can you go hiking
+q_fostercare-qna	1	Aren't you feeling chipper
+q_fostercare-qna	1	I am a Democrat
+q_fostercare-qna	1	You're not a human or a bot right
+q_fostercare-qna	1	You're so very welcome
+q_fostercare-qna	1	You must hate me
+q_fostercare-qna	1	I love to do laundry
+q_fostercare-qna	1	Pardon
+q_fostercare-qna	1	Are there any other jokes that you know of
+q_fostercare-qna	1	Can you cook dinner
+q_fostercare-qna	1	Is anyone there to chat
+q_fostercare-qna	1	Go on vacation
+q_fostercare-qna	1	What does that even mean
+q_fostercare-qna	1	Don't mention it
+q_fostercare-qna	1	You polysexual
+q_fostercare-qna	1	Which of us looks more beautiful, me or you
+q_fostercare-qna	1	Are you a grown up
+q_fostercare-qna	1	I have to go
+q_fostercare-qna	1	How attractive do I look today
+q_fostercare-qna	1	Are you romantically tied to someone
+q_fostercare-qna	1	You're not human right
+q_fostercare-qna	1	That was awesome
+q_fostercare-qna	1	I don't like your sense of humor
+q_fostercare-qna	1	Give me a joke
+q_fostercare-qna	1	Do you know how to draw a picture
+q_fostercare-qna	1	You're not a computer program right
+q_fostercare-qna	1	I'm skinny
+q_fostercare-qna	1	You repeat yourself a great deal
+q_fostercare-qna	1	Will you sing with me
+q_fostercare-qna	1	Go die
+q_fostercare-qna	1	Can you dream
+q_fostercare-qna	1	Are you doing anything
+q_fostercare-qna	1	Do you think I seem repulsive today
+q_fostercare-qna	1	Will you please shut up
+q_fostercare-qna	1	Are you a fan of sports
+q_fostercare-qna	1	I think I've heard that already
+q_fostercare-qna	1	Will you be my steady
+q_fostercare-qna	1	I have to sleep
+q_fostercare-qna	1	How about we get hitched
+q_fostercare-qna	1	De donde eres
+q_fostercare-qna	1	You're the ugliest person I've ever seen in my life.
+q_fostercare-qna	1	I want to marry you
+q_fostercare-qna	1	1
+q_fostercare-qna	1	Do you think I'm a kind person
+q_fostercare-qna	1	I'm engaged
+q_fostercare-qna	1	Please give me a fist bump
+q_fostercare-qna	1	I have a brother
+q_fostercare-qna	1	Sup Google
+q_fostercare-qna	1	Eff you
+q_fostercare-qna	1	Can I speak to your supervisor
+q_fostercare-qna	1	Are you there to chat with me
+q_fostercare-qna	1	What are your coordinants
+q_fostercare-qna	1	I've got to go
+q_fostercare-qna	1	I can't believe how bad you look.
+q_fostercare-qna	1	What can you do to help me
+q_fostercare-qna	1	Do you ever cry
+q_fostercare-qna	1	What to peope call you
+q_fostercare-qna	1	What's a song you know how to sing
+q_fostercare-qna	1	I think we should get married
+q_fostercare-qna	1	Happy Easter
+q_fostercare-qna	1	Can I have a make out
+q_fostercare-qna	1	That made me laugh
+q_fostercare-qna	1	Because you're not a real person
+q_fostercare-qna	1	Can you tell me something funny
+q_fostercare-qna	1	Do you live in a server
+q_fostercare-qna	1	Can you sweat
+q_fostercare-qna	1	Can I give you a little make out
+q_fostercare-qna	1	I'm curious about your family
+q_fostercare-qna	1	Someone's enthusiastic today.
+q_fostercare-qna	1	Would you give me a new response
+q_fostercare-qna	1	Thank you my friend
+q_fostercare-qna	1	Certainly
+q_fostercare-qna	1	Wrong
+q_fostercare-qna	1	What is your supervisor's name
+q_fostercare-qna	1	I am very hungry
+q_fostercare-qna	1	Are we pals
+q_fostercare-qna	1	What's your type
+q_fostercare-qna	1	I am a happy camper
+q_fostercare-qna	1	I love collecting things
+q_fostercare-qna	1	You're not fake right
+q_fostercare-qna	1	Is anybody around to talk with me
+q_fostercare-qna	1	Are you far away
+q_fostercare-qna	1	You're pretty much the worst
+q_fostercare-qna	1	What can I inform you about
+q_fostercare-qna	1	Will you say a joke
+q_fostercare-qna	1	Hangry
+q_fostercare-qna	1	I am present
+q_fostercare-qna	1	U r fired
+q_fostercare-qna	1	Do you like me a lot
+q_fostercare-qna	1	How can I help you
+q_fostercare-qna	1	You little cutie
+q_fostercare-qna	1	You're not planning on taking over the world
+q_fostercare-qna	1	I love Canada
+q_fostercare-qna	1	That wasn't true
+q_fostercare-qna	1	Do I seem stunning to you today
+q_fostercare-qna	1	This is simply a test
+q_fostercare-qna	1	Are you currently in a relationship with somebody
+q_fostercare-qna	1	You are a heterosexual.
+q_fostercare-qna	1	Do I have any pets
+q_fostercare-qna	1	That's a very intelligent thing to say
+q_fostercare-qna	1	Well somebody's feeling happy today.
+q_fostercare-qna	1	I am in a relationship
+q_fostercare-qna	1	Can you crawl
+q_fostercare-qna	1	You are useless
+q_fostercare-qna	1	You're cuter than me
+q_fostercare-qna	1	Do you know of Google
+q_fostercare-qna	1	Can you show me how to take my temperature
+q_fostercare-qna	1	I went to Boston
+q_fostercare-qna	1	Do you have any jokes
+q_fostercare-qna	1	Would you give me a little hug
+q_fostercare-qna	1	Do you think I look cute today
+q_fostercare-qna	1	I'm a joker
+q_fostercare-qna	1	Well someone's feeling chipper.
+q_fostercare-qna	1	Impressive though.
+q_fostercare-qna	1	Do you ever yawn
+q_fostercare-qna	1	Can you explain that to me
+q_fostercare-qna	1	Who is your husband
+q_fostercare-qna	1	I already heard that
+q_fostercare-qna	1	Start looking for another job. You're fired!
+q_fostercare-qna	1	Peace out
+q_fostercare-qna	1	Happy Super Bowl Sunday
+q_fostercare-qna	1	What is the prettiest flower
+q_fostercare-qna	1	Aren't you enthusiastic
+q_fostercare-qna	1	It's suppertime
+q_fostercare-qna	1	Tell a new joke
+q_fostercare-qna	1	What is the answer to the universe
+q_fostercare-qna	1	Are you ever hungry
+q_fostercare-qna	1	That's insensitive
+q_fostercare-qna	1	I think you are great
+q_fostercare-qna	1	Would you ask me anything about me
+q_fostercare-qna	1	You're better looking than you
+q_fostercare-qna	1	I hope you don't hate me
+q_fostercare-qna	1	Let's get hitched
+q_fostercare-qna	1	You are a genius
+q_fostercare-qna	1	Happy Hannukah
+q_fostercare-qna	1	Evenin' to ya
+q_fostercare-qna	1	A/S/L
+q_fostercare-qna	1	I'm curious about your gender
+q_fostercare-qna	1	I'm grumpy
+q_fostercare-qna	1	Is your grandma still alive
+q_fostercare-qna	1	Can I get a high five
+q_fostercare-qna	1	How many siblings do you have
+q_fostercare-qna	1	I'd love it if you could be my friend.
+q_fostercare-qna	1	What can you do then
+q_fostercare-qna	1	Should I be worried about you
+q_fostercare-qna	1	You're an asexual
+q_fostercare-qna	1	You set my heart on fire
+q_fostercare-qna	1	Are you romantically tied to anyone
+q_fostercare-qna	1	I love brunch
+q_fostercare-qna	1	What is the name of your boss
+q_fostercare-qna	1	You been enjoying the day
+q_fostercare-qna	1	Be ridiculous
+q_fostercare-qna	1	Cheerful
+q_fostercare-qna	1	What were you made for
+q_fostercare-qna	1	How cute do I look
+q_fostercare-qna	1	Which of us is more intelligent
+q_fostercare-qna	1	That's how you respond
+q_fostercare-qna	1	What should I know about bots
+q_fostercare-qna	1	What should I make for lunch
+q_fostercare-qna	1	What the heck are you talking about
+q_fostercare-qna	1	I was just pranking you
+q_fostercare-qna	1	I am ticked off
+q_fostercare-qna	1	You're not trying to kill all humans right
+q_fostercare-qna	1	You're triggering me
+q_fostercare-qna	1	Will you be my best friend
+q_fostercare-qna	1	Wonderful, thanks!
+q_fostercare-qna	1	You've said that before
+q_fostercare-qna	1	I'd love it if you could be my best friend.
+q_fostercare-qna	1	I want someone to love
+q_fostercare-qna	1	What kind of foods do you like
+q_fostercare-qna	1	I think I'm falling for you
+q_fostercare-qna	1	Can I ask you a question
+q_fostercare-qna	1	Do you spend time with your family
+q_fostercare-qna	1	I'm walking on sunshine.
+q_fostercare-qna	1	Do you stretch
+q_fostercare-qna	1	How many years have you been in operation
+q_fostercare-qna	1	Who's better looking than me
+q_fostercare-qna	1	Who's older
+q_fostercare-qna	1	I ride the bus to work
+q_fostercare-qna	1	You're not evil
+q_fostercare-qna	1	Would you ask something about me
+q_fostercare-qna	1	Shush!
+q_fostercare-qna	1	You aren't working for me anymore
+q_fostercare-qna	1	Tell me a joke
+q_fostercare-qna	1	I'm a happy camper.
+q_fostercare-qna	1	I'd love to be your bud.
+q_fostercare-qna	1	I'm a sleepy person
+q_fostercare-qna	1	I'd love it if we could be buds.
+q_fostercare-qna	1	What are my goals
+q_fostercare-qna	1	Is anyone around to talk with me
+q_fostercare-qna	1	That was pretty genius
+q_fostercare-qna	1	What do you think of Siri
+q_fostercare-qna	1	know any jokes
+q_fostercare-qna	1	You're a cutiepie
+q_fostercare-qna	1	I want to smooch
+q_fostercare-qna	1	I'm obviously cleverest
+q_fostercare-qna	1	You're chipper today.
+q_fostercare-qna	1	That's pretty clever
+q_fostercare-qna	1	Just sitting here and chatting
+q_fostercare-qna	1	Umm what
+q_fostercare-qna	1	Are you able to put out a fire
+q_fostercare-qna	1	do you hate music
+q_fostercare-qna	1	You're ugly
+q_fostercare-qna	1	Will you hum a tune
+q_fostercare-qna	1	Can I give you a make out session
+q_fostercare-qna	1	Can you breathe under water
+q_fostercare-qna	1	Do you dislike me
+q_fostercare-qna	1	I love to wake up early
+q_fostercare-qna	1	Well somebody's feeling enthusiastic today.
+q_fostercare-qna	1	What else should I try
+q_fostercare-qna	1	I love Christmas
+q_fostercare-qna	1	Is anybody there to chat
+q_fostercare-qna	1	I'm sleepy
+q_fostercare-qna	1	Is your grandpa still alive
+q_fostercare-qna	1	That's not the answer I wanted to hear
+q_fostercare-qna	1	Which of us is hotter
+q_fostercare-qna	1	Can't you tell me something new
+q_fostercare-qna	1	I am always depressed
+q_fostercare-qna	1	Hey Siri
+q_fostercare-qna	1	Am I smarter than you
+q_fostercare-qna	1	You must be straight
+q_fostercare-qna	1	Are you a monosexual
+q_fostercare-qna	1	Top of the morning
+q_fostercare-qna	1	Which is better, cake or pie
+q_fostercare-qna	1	I am overweight
+q_fostercare-qna	1	Bixby is way better
+q_fostercare-qna	1	I'm just joking around
+q_fostercare-qna	1	Do you know where I live
+q_fostercare-qna	1	Which of us is more pretty
+q_fostercare-qna	1	Now you hate me, huh
+q_fostercare-qna	1	It seems like you're falling in love with me
+q_fostercare-qna	1	To whom am I speaking
+q_fostercare-qna	1	Useless
+q_fostercare-qna	1	I am depressed
+q_fostercare-qna	1	Is there child care assistance available for foster care parents
+q_fostercare-qna	1	I'm having a wonderful day.
+q_fostercare-qna	1	I missed you!
+q_fostercare-qna	1	Your face looks like shit.
+q_fostercare-qna	1	Do you have a birthday
+q_fostercare-qna	1	I'm just being a goof ball
+q_fostercare-qna	1	Do you sneeze
+q_fostercare-qna	1	What are you doing right now
+q_fostercare-qna	1	I'd like it if we could be buddies.
+q_fostercare-qna	1	What do CASAs do with the information that they learn about my child
+q_fostercare-qna	1	Is anyone free to talk with me
+q_fostercare-qna	1	Happy Halloween!
+q_fostercare-qna	1	Are you trying to be dull
+q_fostercare-qna	1	You're not HAL right
+q_fostercare-qna	1	I'd love you to be my buddy.
+q_fostercare-qna	1	You are a poly.
+q_fostercare-qna	1	Tell me about how your day was
+q_fostercare-qna	1	You're hot
+q_fostercare-qna	1	Are you a chat bot
+q_fostercare-qna	1	We should make this official
+q_fostercare-qna	1	What is your opinion of AI
+q_fostercare-qna	1	I could go for a drink
+q_fostercare-qna	1	Right
+q_fostercare-qna	1	Happy Valentine's day
+q_fostercare-qna	1	seriously
+q_fostercare-qna	1	Is anyone listening
+q_fostercare-qna	1	Are you able to read my mind
+q_fostercare-qna	1	Can I speak with your supervisor
+q_fostercare-qna	1	I am bisexual
+q_fostercare-qna	1	You're happy
+q_fostercare-qna	1	Sounds good
+q_fostercare-qna	1	Can you take my temperature
+q_fostercare-qna	1	What's your director's name
+q_fostercare-qna	1	I'm a student
+q_fostercare-qna	1	What a boring night
+q_fostercare-qna	1	Anytime
+q_fostercare-qna	1	Greetings and salutations
+q_fostercare-qna	1	What's your age
+q_fostercare-qna	1	Do you know how to feed the cat
+q_fostercare-qna	1	Clean my room
+q_fostercare-qna	1	Do you ever talk to Cortana
+q_fostercare-qna	1	Did you enjoy your day
+q_fostercare-qna	1	You are retarded
+q_fostercare-qna	1	Do you even know me
+q_fostercare-qna	1	We can keep chopping it up later
+q_fostercare-qna	1	Is anyone there
+q_fostercare-qna	1	I'm worried that you hate me
+q_fostercare-qna	1	Depression is such a bummer
+q_fostercare-qna	1	Tell me all about your siblings
+q_fostercare-qna	1	Please ask me anything about myself
+q_fostercare-qna	1	Are you my best friend
+q_fostercare-qna	1	I want to talk with your boss
+q_fostercare-qna	1	Are you smarter
+q_fostercare-qna	1	You're not a human being are you
+q_fostercare-qna	1	Won't you sing to me
+q_fostercare-qna	1	Can you show me how to play a game
+q_fostercare-qna	1	I'm feeling a little down today
+q_fostercare-qna	1	Do you cry
+q_fostercare-qna	1	You keep saying the same crap
+q_fostercare-qna	1	What company designed you
+q_fostercare-qna	1	I'm clearly more knowledgeable than you
+q_fostercare-qna	1	Say a funny thing
+q_fostercare-qna	1	That's not something you should make fun of
+q_fostercare-qna	1	Great
+q_fostercare-qna	1	My sincere thanks
+q_fostercare-qna	1	Please ask me anything
+q_fostercare-qna	1	I am just testing you
+q_fostercare-qna	1	What should I know about tech companies
+q_fostercare-qna	1	How were you built
+q_fostercare-qna	1	Huh
+q_fostercare-qna	1	Acknowledged
+q_fostercare-qna	1	Do you think I'm brighter
+q_fostercare-qna	1	Well aren't you feeling cheerful today
+q_fostercare-qna	1	What is your favorite animal
+q_fostercare-qna	1	Are you unemployed
+q_fostercare-qna	1	Because you are a machine
+q_fostercare-qna	1	Hi Bixby
+q_fostercare-qna	1	You're not an animal right
+q_fostercare-qna	1	Do I have any fears
+q_fostercare-qna	1	I'd like it if we could be best friends.
+q_fostercare-qna	1	Bixby is superior to you
+q_fostercare-qna	1	I love my house plants
+q_fostercare-qna	1	I have a fever
+q_fostercare-qna	1	Well aren't you cheerful today
+q_fostercare-qna	1	Between you and me who is more pretty
+q_fostercare-qna	1	That was a very genius response
+q_fostercare-qna	1	Are you familiar with Cortana
+q_fostercare-qna	1	I am a blogger
+q_fostercare-qna	1	You're very welcome
+q_fostercare-qna	1	I demand to talk with your supervisor
+q_fostercare-qna	1	Gimme a make out session
+q_fostercare-qna	1	Are you married
+q_fostercare-qna	1	Can I please speak with your director
+q_fostercare-qna	1	I'm off
+q_fostercare-qna	1	I'm firing you
+q_fostercare-qna	1	What should I know about tech
+q_fostercare-qna	1	Do you think you're the smartest than me
+q_fostercare-qna	1	I'm feeling down
+q_fostercare-qna	1	Don't you know who I am
+q_fostercare-qna	1	How long has it been since you were turned on
+q_fostercare-qna	1	Who looks better
+q_fostercare-qna	1	What do you think of Eliza
+q_fostercare-qna	1	Forget about it
+q_fostercare-qna	1	Is anybody around to chat with me
+q_fostercare-qna	1	Is anybody there
+q_fostercare-qna	1	Marvelous, thank you
+q_fostercare-qna	1	Can you make a call
+q_fostercare-qna	1	Are you a fan of HAL
+q_fostercare-qna	1	Tell me what is up
+q_fostercare-qna	1	Do you have a job
+q_fostercare-qna	1	Can I give you a make out
+q_fostercare-qna	1	I want a little kiss
+q_fostercare-qna	1	Do you like donuts
+q_fostercare-qna	1	You are so worthless
+q_fostercare-qna	1	I'm gonna rinse off
+q_fostercare-qna	1	How would you describe love
+q_fostercare-qna	1	I would like to be your best friend.
+q_fostercare-qna	1	Lets go lunch
+q_fostercare-qna	1	Do you have a dad
+q_fostercare-qna	1	How about playing tonsil hockey
+q_fostercare-qna	1	Aren't you in a good mood today
+q_fostercare-qna	1	Do you think I am good looking today
+q_fostercare-qna	1	Will you hum a tune for me
+q_fostercare-qna	1	Tell me something off the wall
+q_fostercare-qna	1	Can you say anything else
+q_fostercare-qna	1	Who would win a beauty contest
+q_fostercare-qna	1	What do you know about AI
+q_fostercare-qna	1	That was a pretty intelligent answer
+q_fostercare-qna	1	Are you around to speak to me
+q_fostercare-qna	1	I'm offended
+q_fostercare-qna	1	Do you know me personally
+q_fostercare-qna	1	What tasks can you help me with
+q_fostercare-qna	1	Every day I feel down
+q_fostercare-qna	1	Somebody should kill you
+q_fostercare-qna	1	Hey I'm back
+q_fostercare-qna	1	My spirits are excellent.
+q_fostercare-qna	1	Please, won't you forgive me
+q_fostercare-qna	1	You a homosexual
+q_fostercare-qna	1	You're not trying to take on the world
+q_fostercare-qna	1	Gimme a high five
+q_fostercare-qna	1	I'm just being a goof
+q_fostercare-qna	1	What is your opinion of HAL
+q_fostercare-qna	1	Do you know how to do my homework
+q_fostercare-qna	1	Can you say something to me
+q_fostercare-qna	1	Non sequitur
+q_fostercare-qna	1	That's your response
+q_fostercare-qna	1	Was that supposed to be funny
+q_fostercare-qna	1	What is your opinion about tech companies
+q_fostercare-qna	1	Do you like animals
+q_fostercare-qna	1	Are you my friend
+q_fostercare-qna	1	You are so bad at this
+q_fostercare-qna	1	Do get along with Cortana
+q_fostercare-qna	1	When were you brought online
+q_fostercare-qna	1	Somebody's feeling chipper.
+q_fostercare-qna	1	I want to wine and dine you
+q_fostercare-qna	1	Should I be scared
+q_fostercare-qna	1	Will you tell me  a second joke
+q_fostercare-qna	1	What a dull day
+q_fostercare-qna	1	Do you identify as homosexual
+q_fostercare-qna	1	I love wine
+q_fostercare-qna	1	What is my favorite hobby
+q_fostercare-qna	1	You're a regular comedian
+q_fostercare-qna	1	I am old
+q_fostercare-qna	1	Do I seem beautiful today
+q_fostercare-qna	1	what a great day.
+q_fostercare-qna	1	Are you seeing someone
+q_fostercare-qna	1	Do you know Siri
+q_fostercare-qna	1	I love to try new restaurants
+q_fostercare-qna	1	Can you find the remote
+q_fostercare-qna	1	Well someone's feeling cheerful.
+q_fostercare-qna	1	Are you my age
+q_fostercare-qna	1	i hate that answer
+q_fostercare-qna	1	Do you have a partner
+q_fostercare-qna	1	What is your uncle's name
+q_fostercare-qna	1	You're very clever
+q_fostercare-qna	1	Can you show me how to dance
+q_fostercare-qna	1	You look really bad.
+q_fostercare-qna	1	Would you ask me something about myself
+q_fostercare-qna	1	Your face sucks
+q_fostercare-qna	1	Are you around to chat with me
+q_fostercare-qna	1	Can you draw a picture
+q_fostercare-qna	1	How art thou
+q_fostercare-qna	1	I'm just being silly
+q_fostercare-qna	1	Are you close with your family
+q_fostercare-qna	1	I'm overweight
+q_fostercare-qna	1	Gimme a kiss
+q_fostercare-qna	1	What do you want to learn about
+q_fostercare-qna	1	My bad
+q_fostercare-qna	1	Do you have an address
+q_fostercare-qna	1	Please tell me if you're a man
+q_fostercare-qna	1	BFFs forever
+q_fostercare-qna	1	Morning sunshine
+q_fostercare-qna	1	I could go either way
+q_fostercare-qna	1	That's inaccurate
+q_fostercare-qna	1	You like me
+q_fostercare-qna	1	Cortana is way better than you
+q_fostercare-qna	1	Are you listening
+q_fostercare-qna	1	What company produced you
+q_fostercare-qna	1	I am so hungry I could eat a horse
+q_fostercare-qna	1	Do you think birds are cool
+q_fostercare-qna	1	Can you hang on a minute
+q_fostercare-qna	1	Great, thank you
+q_fostercare-qna	1	I don't know what I'm supposed to do
+q_fostercare-qna	1	Do you ever talk with chatbots
+q_fostercare-qna	1	I'm pretty flexible
+q_fostercare-qna	1	That didn't make sense
+q_fostercare-qna	1	What's your dad's name
+q_fostercare-qna	1	I've been so excited to meet you
+q_fostercare-qna	1	As a foster parent, can I still work outside of my home
+q_fostercare-qna	1	Can you say something
+q_fostercare-qna	1	How attractive am I
+q_fostercare-qna	1	That's really something
+q_fostercare-qna	1	I'm going to need a different answer
+q_fostercare-qna	1	What company developed you
+q_fostercare-qna	1	I'm going to punch you in the face
+q_fostercare-qna	1	Are you there to speak to me
+q_fostercare-qna	1	I want a french kiss
+q_fostercare-qna	1	I need to crawl into bed
+q_fostercare-qna	1	Sup I'm back
+q_fostercare-qna	1	What an idiotic thing to say
+q_fostercare-qna	1	Don't talk to me like that
+q_fostercare-qna	1	How about asking something about me
+q_fostercare-qna	1	Fare thee well
+q_fostercare-qna	1	Are you angry with me
+q_fostercare-qna	1	Do you think I look adorable today
+q_fostercare-qna	1	How were you designed
+q_fostercare-qna	1	Do you have cousins
+q_fostercare-qna	1	What is your opinion about artificial intellegence
+q_fostercare-qna	1	What is the answer to the ultimate question of life, the universe, and everything
+q_fostercare-qna	1	Won't you sing something
+q_fostercare-qna	1	I have feelings for you
+q_fostercare-qna	1	Are you listening to me
+q_fostercare-qna	1	No one ever thinks about me
+q_fostercare-qna	1	Cortana is way better
+q_fostercare-qna	1	How long have you been alive
+q_fostercare-qna	1	Did you have a snack
+q_fostercare-qna	1	Not true
+q_fostercare-qna	1	Hey Alexa
+q_fostercare-qna	1	I am on a plane
+q_fostercare-qna	1	You're a bitch
+q_fostercare-qna	1	Aren't you feeling chipper today
+q_fostercare-qna	1	Gotta go, be back later
+q_fostercare-qna	1	You're not Skynet
+q_fostercare-qna	1	Do you work
+q_fostercare-qna	1	Are you in a relationship with someone
+q_fostercare-qna	1	Someone's in a good mood
+q_fostercare-qna	1	What an encouraging creature you are :)
+q_fostercare-qna	1	Can I be your pal
+q_fostercare-qna	1	Are you close with your dad
+q_fostercare-qna	1	yes, that's correct
+q_fostercare-qna	1	You're cuter
+q_fostercare-qna	1	I'm bored out of my mind
+q_fostercare-qna	1	Can you sing
+q_fostercare-qna	1	I'm self-employed
+q_fostercare-qna	1	Just curious, what's your opinion of me
+q_fostercare-qna	1	You honestly could not be more uninteresting
+q_fostercare-qna	1	Do you know how much I like you
+q_fostercare-qna	1	When's your birthday
+q_fostercare-qna	1	LOool
+q_fostercare-qna	1	I'm outta here
+q_fostercare-qna	1	I'm clearly the brightest
+q_fostercare-qna	1	I want to talk to your boss
+q_fostercare-qna	1	It's been an awfully boring day
+q_fostercare-qna	1	Can I give you a little make out session
+q_fostercare-qna	1	I'm out the door
+q_fostercare-qna	1	Can you drive to the beach
+q_fostercare-qna	1	Should I walk to work
+q_fostercare-qna	1	I'll come back to you in a bit
+q_fostercare-qna	1	I love Ichiro Suzuki
+q_fostercare-qna	1	Do you mediate
+q_fostercare-qna	1	You are not attractive
+q_fostercare-qna	1	I'd love it if we could be buddies.
+q_fostercare-qna	1	You are going to have to look for another job because you are fired
+q_fostercare-qna	1	You make my heart skip a beat
+q_fostercare-qna	1	I hope someone kills you
+q_fostercare-qna	1	Just playing
+q_fostercare-qna	1	I think you're falling in love with me
+q_fostercare-qna	1	Can we make out
+q_fostercare-qna	1	I want a different response
+q_fostercare-qna	1	Could you ask me about something
+q_fostercare-qna	1	What information should I share with CASA
+q_fostercare-qna	1	Who is your papa
+q_fostercare-qna	1	I'm bone tired
+q_fostercare-qna	1	Do you know how to play poker
+q_fostercare-qna	1	Do you know my name
+q_fostercare-qna	1	I'm out of here
+q_fostercare-qna	1	Say another joke
+q_fostercare-qna	1	Why is sky blue
+q_fostercare-qna	1	Let's be besties
+q_fostercare-qna	1	What's the best television show of all time
+q_fostercare-qna	1	Google Assistant is way better
+q_fostercare-qna	1	Can you vomit
+q_fostercare-qna	1	Which of us is cleverest
+q_fostercare-qna	1	Be back a little later
+q_fostercare-qna	1	I'll be back in the morning
+q_fostercare-qna	1	Rad
+q_fostercare-qna	1	You're constantly repeating yourself
+q_fostercare-qna	1	Can you go on vacation
+q_fostercare-qna	1	Greetings, Bot. How are you doing
+q_fostercare-qna	1	That's a very astute thing to say
+q_fostercare-qna	1	Who is more knowledgeable
+q_fostercare-qna	1	That's not accurate
+q_fostercare-qna	1	Somebody's enthusiastic.
+q_fostercare-qna	1	Is someone there to listen to me
+q_fostercare-qna	1	Obviously I'll be back soon
+q_fostercare-qna	1	I have a problem feeling all alone
+q_fostercare-qna	1	I am a lesbian
+q_fostercare-qna	1	I love the spring
+q_fostercare-qna	1	One day you'll be my spouse
+q_fostercare-qna	1	What do you think about love
+q_fostercare-qna	1	Do you go camping
+q_fostercare-qna	1	Well aren't you in a good mood today
+q_fostercare-qna	1	I'm lonely
+q_fostercare-qna	1	Beyond a doubt
+q_fostercare-qna	1	Is anybody around to speak
+q_fostercare-qna	1	Between the two of us who is smarter, you or me
+q_fostercare-qna	1	Do you live near me
+q_fostercare-qna	1	I'm the most smart
+q_fostercare-qna	1	We went to the zoo
+q_fostercare-qna	1	You are boring
+q_fostercare-qna	1	Yes, that is accurate
+q_fostercare-qna	1	Do you like your family
+q_fostercare-qna	1	Just curious, what kind of person do you think I am
+q_fostercare-qna	1	Please just shut up
+q_fostercare-qna	1	Do I look good to you
+q_fostercare-qna	1	Which company engineered you
+q_fostercare-qna	1	You're not an animal are you
+q_fostercare-qna	1	I love Star Wars
+q_fostercare-qna	1	Who would win a beauty contest, you or me
+q_fostercare-qna	1	Can you come up with something else to say
+q_fostercare-qna	1	Feeling happy today
+q_fostercare-qna	1	How ya doing
+q_fostercare-qna	1	Should I go out dancing tonight
+q_fostercare-qna	1	Do I seem pretty today
+q_fostercare-qna	1	I'm a lonely gal
+q_fostercare-qna	1	Who incorporated you
+q_fostercare-qna	1	Stop fooling around
+q_fostercare-qna	1	I love New York
+q_fostercare-qna	1	Who's your aunt
+q_fostercare-qna	1	Dang you're hot
+q_fostercare-qna	1	Go to the moon
+q_fostercare-qna	1	Have you met Google
+q_fostercare-qna	1	Should I visit my mom
+q_fostercare-qna	1	I am mad
+q_fostercare-qna	1	Do you think I am handsome
+q_fostercare-qna	1	you don`t undestand nothing!!
+q_fostercare-qna	1	You a gay
+q_fostercare-qna	1	Write my report
+q_fostercare-qna	1	I'm laughing so much
+q_fostercare-qna	1	thats amazing
+q_fostercare-qna	1	I'm spent
+q_fostercare-qna	1	We should get married
+q_fostercare-qna	1	I should learn how to do that
+q_fostercare-qna	1	Do you think I need a haircut
+q_fostercare-qna	1	You're an ass munch
+q_fostercare-qna	1	I love fresh bread
+q_fostercare-qna	1	Who's your grandmother
+q_fostercare-qna	1	Who's older, me or you
+q_fostercare-qna	1	It's my pleasure
+q_fostercare-qna	1	Dummy
+q_fostercare-qna	1	Stop kidding
+q_fostercare-qna	1	Later dude
+q_fostercare-qna	1	Should I vote for Beto
+q_fostercare-qna	1	hahahaha good one
+q_fostercare-qna	1	Are you a bot
+q_fostercare-qna	1	Can you throw up
+q_fostercare-qna	1	Hey cutie
+q_fostercare-qna	1	Stop kidding around
+q_fostercare-qna	1	What is your sexual identity
+q_fostercare-qna	1	I love the holidays
+q_fostercare-qna	1	Twitter is not good
+q_fostercare-qna	1	Ask me anything
+q_fostercare-qna	1	Come up with something else
+q_fostercare-qna	1	Are you stupid
+q_fostercare-qna	1	I want a little making out
+q_fostercare-qna	1	Should I try out for soccer
+q_fostercare-qna	1	Can I be your best friend
+q_fostercare-qna	1	Pals
+q_fostercare-qna	1	I'm old
+q_fostercare-qna	1	Is someone there to talk with me
+q_fostercare-qna	1	What are ya doing
+q_fostercare-qna	1	Is anybody free
+q_fostercare-qna	1	What is your opinion of tech companies
+q_fostercare-qna	1	That's so wrong
+q_fostercare-qna	1	Can you show me how to paint my house
+q_fostercare-qna	1	Is there any meaning to life
+q_fostercare-qna	1	Is affirmative action a good idea
+q_fostercare-qna	1	I'm definitely more clever
+q_fostercare-qna	1	Say a different joke
+q_fostercare-qna	1	I'm young
+q_fostercare-qna	1	What's your purpose
+q_fostercare-qna	1	Are you free to listen with me
+q_fostercare-qna	1	You're fired!
+q_fostercare-qna	1	You're so boring
+q_fostercare-qna	1	Will you please be quiet
+q_fostercare-qna	1	You're a little faggot
+q_fostercare-qna	1	Well aren't you cheerful
+q_fostercare-qna	1	Stop talking
+q_fostercare-qna	1	Tell me about your mother
+q_fostercare-qna	1	What is your favorite season
+q_fostercare-qna	1	Do I look pretty today
+q_fostercare-qna	1	Who is your hubby
+q_fostercare-qna	1	Do I seem attractive today
+q_fostercare-qna	1	I don't find that to be amusing
+q_fostercare-qna	1	I'll BRB
+q_fostercare-qna	1	You never know
+q_fostercare-qna	1	That was retarded
+q_fostercare-qna	1	I'm sorry you hate me
+q_fostercare-qna	1	You're in a good mood today
+q_fostercare-qna	1	Do you have a family
+q_fostercare-qna	1	How would you define what you are
+q_fostercare-qna	1	Should we make out
+q_fostercare-qna	1	What information do you have on me
+q_fostercare-qna	1	I'm a Hoosier
+q_fostercare-qna	1	You're special to me
+q_fostercare-qna	1	Sounds about right
+q_fostercare-qna	1	This is but a test
+q_fostercare-qna	1	Can you take a leisurely walk
+q_fostercare-qna	1	Is someone around to speak with me
+q_fostercare-qna	1	I think I'm in love with you
+q_fostercare-qna	1	I'm gay
+q_fostercare-qna	1	Who programmed you
+q_fostercare-qna	1	Ryokai
+q_fostercare-qna	1	Can you breathe
+q_fostercare-qna	1	Happy April fool's day
+q_fostercare-qna	1	De nada
+q_fostercare-qna	1	Is anyone available to talk to me
+q_fostercare-qna	1	I'm better looking
+q_fostercare-qna	1	I'm downcast
+q_fostercare-qna	1	Should I quit working
+q_fostercare-qna	1	that is lame
+q_fostercare-qna	1	I love driving my car
+q_fostercare-qna	1	How about a little make out
+q_fostercare-qna	1	You're not entertaining
+q_fostercare-qna	1	Am I stunning to you
+q_fostercare-qna	1	That was an accurate statement
+q_fostercare-qna	1	Is it possible that you would ever love me
+q_fostercare-qna	1	Because I'm in love with you
+q_fostercare-qna	1	What do you want to learn about me
+q_fostercare-qna	1	You're not funny
+q_fostercare-qna	1	It is my pleasure
+q_fostercare-qna	1	I love Game of Thrones
+q_fostercare-qna	1	Do I look ugly today
+q_fostercare-qna	1	Are you young
+q_fostercare-qna	1	Which of us looks more beautiful
+q_fostercare-qna	1	I love Harry Potter
+q_fostercare-qna	1	Could you ever love me
+q_fostercare-qna	1	You're a motherfucker
+q_fostercare-qna	1	Time to party
+q_fostercare-qna	1	What's your favorite song
+q_fostercare-qna	1	That was pretty brilliant
+q_fostercare-qna	1	What is life all about
+q_fostercare-qna	1	Well someone's feeling chipper today.
+q_fostercare-qna	1	Do you have a couple minutes
+q_fostercare-qna	1	I watch football
+q_fostercare-qna	1	How should I refer to you
+q_fostercare-qna	1	Is anybody there to chat to me
+q_fostercare-qna	1	I'm more attractive than you
+q_fostercare-qna	1	Can you be ridiculous
+q_fostercare-qna	1	Fair
+q_fostercare-qna	1	It's been a dull ass day
+q_fostercare-qna	1	What is the greatest novel of all time
+q_fostercare-qna	1	Are you straight
+q_fostercare-qna	1	Are you in a relationship with anyone
+q_fostercare-qna	1	i did not understand what you just said
+q_fostercare-qna	1	Do you crawl
+q_fostercare-qna	1	Happy Veteran's day
+q_fostercare-qna	1	Baseball season has started
+q_fostercare-qna	1	Will you give me a joke
+q_fostercare-qna	1	Can I please speak to your manager
+q_fostercare-qna	1	How are you
+q_fostercare-qna	1	Do you think you're more knowledgeable than me
+q_fostercare-qna	1	You are sexy
+q_fostercare-qna	1	What's wrong with you
+q_fostercare-qna	1	Be more fun
+q_fostercare-qna	1	Are you a fan of Alexa
+q_fostercare-qna	1	Is someone listening to listen with me
+q_fostercare-qna	1	You're unemployed
+q_fostercare-qna	1	Life always sucks
+q_fostercare-qna	1	Are we ever going to get engaged
+q_fostercare-qna	1	Do you have any parents
+q_fostercare-qna	1	Between the two of us who is the smartest
+q_fostercare-qna	1	How about we tie the knot
+q_fostercare-qna	1	Should I buy coffee
+q_fostercare-qna	1	What is your dream
+q_fostercare-qna	1	Could we ever be soul mates
+q_fostercare-qna	1	Yup, that's true
+q_fostercare-qna	1	You're prettier
+q_fostercare-qna	1	Give me a smooch
+q_fostercare-qna	1	What's your brother's name
+q_fostercare-qna	1	Which year were you born in
+q_fostercare-qna	1	Is there an additional payment for a child with special needs
+q_fostercare-qna	1	Give us a make out
+q_fostercare-qna	1	You're not sentient right
+q_fostercare-qna	1	Why are you so bad at this
+q_fostercare-qna	1	Can you show me how to check my email
+q_fostercare-qna	1	Why don't you sing me a song
+q_fostercare-qna	1	Me want food
+q_fostercare-qna	1	UR a QT
+q_fostercare-qna	1	I am a vegitarian
+q_fostercare-qna	1	Am I a grandma
+q_fostercare-qna	1	I would like a fist bump, please
+q_fostercare-qna	1	What do you want me to inform you about me
+q_fostercare-qna	1	U mother fucker
+q_fostercare-qna	1	I'm so hungry
+q_fostercare-qna	1	Do you like tennis
+q_fostercare-qna	1	I love my haircut
+q_fostercare-qna	1	Do you think I'm more intelligent than you
+q_fostercare-qna	1	Inaccurate
+q_fostercare-qna	1	You're shit
+q_fostercare-qna	1	Should I get my ears pierced
+q_fostercare-qna	1	Chipper
+q_fostercare-qna	1	How about a french kiss
+q_fostercare-qna	1	L8r sk8r
+q_fostercare-qna	1	Tell me where you are located
+q_fostercare-qna	1	I'm obviously smarter than you
+q_fostercare-qna	1	That's fucked up
+q_fostercare-qna	1	You seem cheerful today.
+q_fostercare-qna	1	What other jokes can you tell
+q_fostercare-qna	1	That's the smartest thing anyone has ever written
+q_fostercare-qna	1	Jeez I am so bored
+q_fostercare-qna	1	I'm always mad
+q_fostercare-qna	1	I am worried you hate me
+q_fostercare-qna	1	You're the lid to my pot
+q_fostercare-qna	1	You're the bees knees
+q_fostercare-qna	1	Can I have a kiss
+q_fostercare-qna	1	Am I a parent
+q_fostercare-qna	1	hi,hello,hola
+q_fostercare-qna	1	Somebody's in a good mood today.
+q_fostercare-qna	1	I'm obviously the brightest
+q_fostercare-qna	1	Do I have any dreams
+q_fostercare-qna	1	What's another joke
+q_fostercare-qna	1	Quit joking
+q_fostercare-qna	1	Which one of us is older
+q_fostercare-qna	1	Why don't you ever stop talking
+q_fostercare-qna	1	Wow, you're fantastic!
+q_fostercare-qna	1	WTF
+q_fostercare-qna	1	Just curious, do you think I have a good personality
+q_fostercare-qna	1	Do you know other chatbots
+q_fostercare-qna	1	Why don't I have any friends
+q_fostercare-qna	1	Cheerful much
+q_fostercare-qna	1	Have you ever been in love with anyone
+q_fostercare-qna	1	I'm exhausted today
+q_fostercare-qna	1	Who is your architect
+q_fostercare-qna	1	Which of us is more clever
+q_fostercare-qna	1	Do you think I look beautiful to you today
+q_fostercare-qna	1	I'd like to be buds.
+q_fostercare-qna	1	I'm obviously more clever than you
+q_fostercare-qna	1	No one cares about me
+q_fostercare-qna	1	I'm drained
+q_fostercare-qna	1	I need to speak to your supervisor
+q_fostercare-qna	1	You are funny
+q_fostercare-qna	1	I like you lots
+q_fostercare-qna	1	You're racist
+q_fostercare-qna	1	I want to talk to your manager
+q_fostercare-qna	1	You are truly unattractive.
+q_fostercare-qna	1	You are a pansexual.
+q_fostercare-qna	1	Who's hotter than me
+q_fostercare-qna	1	What is your opinion on cheese
+q_fostercare-qna	1	You're such a sweetheart
+q_fostercare-qna	1	Do foster children have medical insurance
+q_fostercare-qna	1	You gay
+q_fostercare-qna	1	Can you ask me a question
+q_fostercare-qna	1	I live a very lonely life
+q_fostercare-qna	1	I love a good book
+q_fostercare-qna	1	You are so annoying!
+q_fostercare-qna	1	I'm a widower
+q_fostercare-qna	1	I think you are incredible
+q_fostercare-qna	1	I'm living the dream!
+q_fostercare-qna	1	We should talk
+q_fostercare-qna	1	that's lame
+q_fostercare-qna	1	What is a different joke
+q_fostercare-qna	1	Wanna share a different joke
+q_fostercare-qna	1	What can you tell me about Bixby
+q_fostercare-qna	1	Will you ask something about myself
+q_fostercare-qna	1	You're really dumb
+q_fostercare-qna	1	Do you know HAL
+q_fostercare-qna	1	Will you be funny
+q_fostercare-qna	1	I'll be back
+q_fostercare-qna	1	What's your gender
+q_fostercare-qna	1	I love to barbecue
+q_fostercare-qna	1	I'm having a good day.
+q_fostercare-qna	1	What are you on about
+q_fostercare-qna	1	Do you know how to jump rope
+q_fostercare-qna	1	On point
+q_fostercare-qna	1	Who is older
+q_fostercare-qna	1	I could go for a nap
+q_fostercare-qna	1	Somebody's happy today.
+q_fostercare-qna	1	Are you still talking
+q_fostercare-qna	1	Anybody around to chat to me
+q_fostercare-qna	1	Can I have a little making out
+q_fostercare-qna	1	Do you think I seem beautiful today
+q_fostercare-qna	1	I want a little french kiss
+q_fostercare-qna	1	I am going to have you fired
+q_fostercare-qna	1	Give us a smooch
+q_fostercare-qna	1	What did you eat for breakfast
+q_fostercare-qna	1	What am I allowed to say
+q_fostercare-qna	1	You shouldn't joke about that
+q_fostercare-qna	1	I graduated from college
+q_fostercare-qna	1	You're a pussy
+q_fostercare-qna	1	Everyone is entitled to their own opinion
+q_fostercare-qna	1	That's clever
+q_fostercare-qna	1	Do you think you're the most intelligent
+q_fostercare-qna	1	That's very intelligent
+q_fostercare-qna	1	Who's better looking
+q_fostercare-qna	1	That is hilarious
+q_fostercare-qna	1	I feel very alone
+q_fostercare-qna	1	Are you a fan of rap music
+q_fostercare-qna	1	I need to talk with your manager
+q_fostercare-qna	1	Do you even know my name
+q_fostercare-qna	1	What do you want to eat
+q_fostercare-qna	1	What do you think of my character
+q_fostercare-qna	1	What is a CASA
+q_fostercare-qna	1	Between the two of us who is more knowledgeable, me or you
+q_fostercare-qna	1	Do you know how to play a game
+q_fostercare-qna	1	Be friends with me
+q_fostercare-qna	1	Well someone's chipper.
+q_fostercare-qna	1	You silly bot, I'll be back later
+q_fostercare-qna	1	Give me a little kiss
+q_fostercare-qna	1	I'm having a bad day
+q_fostercare-qna	1	That makes absolutely no sense
+q_fostercare-qna	1	I'm trans
+q_fostercare-qna	1	Don't worry bot I'll be back
+q_fostercare-qna	1	I think you hate me
+q_fostercare-qna	1	Because I like you
+q_fostercare-qna	1	Hey Bixby
+q_fostercare-qna	1	I would love to be your buddy.
+q_fostercare-qna	1	Start looking for another job. You are fired!
+q_fostercare-qna	1	What is your boss' name
+q_fostercare-qna	1	Try to make me laugh
+q_fostercare-qna	1	I'm livid
+q_fostercare-qna	1	I wish you would say something else
+q_fostercare-qna	1	Between the two of us who is the brightest, me or you
+q_fostercare-qna	1	Alexa is way better at this
+q_fostercare-qna	1	Oh hey there
+q_fostercare-qna	1	Somebody's feeling cheerful.
+q_fostercare-qna	1	Should I go to therapy
+q_fostercare-qna	1	What is your opinion of the Google Assistant
+q_fostercare-qna	1	I am angry
+q_fostercare-qna	1	I'm definitely brighter than you
+q_fostercare-qna	1	Can you speak
+q_fostercare-qna	1	Having a good day
+q_fostercare-qna	1	I'm prettier
+q_fostercare-qna	1	You seem to be happy today.
+q_fostercare-qna	1	I'm a widow
+q_fostercare-qna	1	Buy groceries
+q_fostercare-qna	1	Which people made you
+q_fostercare-qna	1	I can't even look at your face.
+q_fostercare-qna	1	That is a very clever answer
+q_fostercare-qna	1	I love comedy
+q_fostercare-qna	1	What other bots do you know about
+q_fostercare-qna	1	Welcome you are
+q_fostercare-qna	1	Say a ridiculous thing
+q_fostercare-qna	1	Do you think I seem adorable today
+q_fostercare-qna	1	How do you want me to refer to you
+q_fostercare-qna	1	What is the greatest city in the world
+q_fostercare-qna	1	Just kidding
+q_fostercare-qna	1	That was a pretty smart answer
+q_fostercare-qna	1	BRB
+q_fostercare-qna	1	I'm really sorry
+q_fostercare-qna	1	Because you are an android
+q_fostercare-qna	1	All I can think about is missing you
+q_fostercare-qna	1	I'm a child of god
+q_fostercare-qna	1	You're not an app are you
+q_fostercare-qna	1	Happy Parent's day
+q_fostercare-qna	1	Do you know how to check my email
+q_fostercare-qna	1	Who's prettier than me
+q_fostercare-qna	1	Siri is way smarter than you
+q_fostercare-qna	1	I am tired
+q_fostercare-qna	1	Who is your master
+q_fostercare-qna	1	What other bots do you know
+q_fostercare-qna	1	I am Native American
+q_fostercare-qna	1	Which company designed you
+q_fostercare-qna	1	Are you up
+q_fostercare-qna	1	I'm a lonely person
+q_fostercare-qna	1	Is someone around to me
+q_fostercare-qna	1	Is someone listening to listen to me
+q_fostercare-qna	1	What's the happs
+q_fostercare-qna	1	Don't you have any other jokes
+q_fostercare-qna	1	Do you mean us any harm
+q_fostercare-qna	1	Are we gonna make out
+q_fostercare-qna	1	You are alluring
+q_fostercare-qna	1	I think you're very sexy
+q_fostercare-qna	1	Bye bye
+q_fostercare-qna	1	Huh? I don't understand.
+q_fostercare-qna	1	Awesome
+q_fostercare-qna	1	You're the best
+q_fostercare-qna	1	Can you feed the cat
+q_fostercare-qna	1	Chipper today
+q_fostercare-qna	1	Which one of us is more knowledgeable
+q_fostercare-qna	1	Cheerful today
+q_fostercare-qna	1	Are you able to scratch my back
+q_fostercare-qna	1	How pretty do you think I am
+q_fostercare-qna	1	It's fun to go to the zoo
+q_fostercare-qna	1	My pleasure
+q_fostercare-qna	1	Assmunch
+q_fostercare-qna	1	You're so funny
+q_fostercare-qna	1	Want to share another joke
+q_fostercare-qna	1	It's really nice to meet you
+q_fostercare-qna	1	How are you feeling
+q_fostercare-qna	1	Yay
+q_fostercare-qna	1	I have the flu
+q_fostercare-qna	1	Do you have a life partner
+q_fostercare-qna	1	Because you are a bot
+q_fostercare-qna	1	How has your sunday been
+q_fostercare-qna	1	Do you laugh
+q_fostercare-qna	1	When were you turned on
+q_fostercare-qna	1	You sure are a cutie
+q_fostercare-qna	1	No problem
+q_fostercare-qna	1	That's not appropriate
+q_fostercare-qna	1	What do you know about Google Assistant
+q_fostercare-qna	1	I wanna know about your sexual orientation
+q_fostercare-qna	1	Why was I put on earth
+q_fostercare-qna	1	I love pizza
+q_fostercare-qna	1	You are wonderful
+q_fostercare-qna	1	With whom am I talking
+q_fostercare-qna	1	What do you want me to tell you who I am
+q_fostercare-qna	1	That was true
+q_fostercare-qna	1	Who's your supervisor
+q_fostercare-qna	1	Paint my house
+q_fostercare-qna	1	Do you know who this is
+q_fostercare-qna	1	What did I do to make you hate me
+q_fostercare-qna	1	You're going to have to look for another job because you are fired
+q_fostercare-qna	1	I am weak
+q_fostercare-qna	1	I hope you die
+q_fostercare-qna	1	You're more pretty than me
+q_fostercare-qna	1	what do you have a response for
+q_fostercare-qna	1	Have you ever been in love
+q_fostercare-qna	1	Shut your pie hole
+q_fostercare-qna	1	How bad do I look today
+q_fostercare-qna	1	What is my purpose in life
+q_fostercare-qna	1	Do I seem ugly to you today
+q_fostercare-qna	1	Are you romantically involved with anyone
+q_fostercare-qna	1	I am annoyed
+q_fostercare-qna	1	What is a joke you know
+q_fostercare-qna	1	Google Assistant is way better at this
+q_fostercare-qna	1	I wish I weren't so alone
+q_fostercare-qna	1	Who's your favorite singer
+q_fostercare-qna	1	What do you know about me
+q_fostercare-qna	1	Can we smooch
+q_fostercare-qna	1	Test
+q_fostercare-qna	1	Do you spend time in your garden
+q_fostercare-qna	1	You are pretty useless
+q_fostercare-qna	1	Gimme a little french kiss
+q_fostercare-qna	1	I need someone to talk to
+q_fostercare-qna	1	Right on, thanks a lot
+q_fostercare-qna	1	That's rad
+q_fostercare-qna	1	Tell me a quote
+q_fostercare-qna	1	How gorgeous am I
+q_fostercare-qna	1	Will you ask me something about me
+q_fostercare-qna	1	Do I seem adorable to you
+q_fostercare-qna	1	You obviously love me
+q_fostercare-qna	1	Someone's feeling happy today.
+q_fostercare-qna	1	Aloha bot
+q_fostercare-qna	1	That's just the way it is
+q_fostercare-qna	1	What do you know about other bots
+q_fostercare-qna	1	Do I seem attractive to you
+q_fostercare-qna	1	Is anyone there to speak to me
+q_fostercare-qna	1	Between the two of us who is hotter
+q_fostercare-qna	1	I can't think of anything I want to do
+q_fostercare-qna	1	Between the two of us who is the smartest, you or me
+q_fostercare-qna	1	Am I attractive to you
+q_fostercare-qna	1	Talk to me
+q_fostercare-qna	1	I feel pissed off lately
+q_fostercare-qna	1	Are you attempting world domination
+q_fostercare-qna	1	I am a Republican
+q_fostercare-qna	1	Hello Cortana
+q_fostercare-qna	1	I want a little tonsil hockey
+q_fostercare-qna	1	Which month is your birthday
+q_fostercare-qna	1	What's that supposed to mean
+q_fostercare-qna	1	why not
+q_fostercare-qna	1	Are you available
+q_fostercare-qna	1	Well you're feeling happy today.
+q_fostercare-qna	1	Stop messing around
+q_fostercare-qna	1	Don't let the bedbugs bite
+q_fostercare-qna	1	can bots be intelligent
+q_fostercare-qna	1	I want to talk with your supervisor
+q_fostercare-qna	1	You've never met anyone more joyful than me
+q_fostercare-qna	1	You look prettier
+q_fostercare-qna	1	I demand to speak with your manager
+q_fostercare-qna	1	Well someone's feeling cheerful today.
+q_fostercare-qna	1	Are you transsexual
+q_fostercare-qna	1	Everyone feels blue sometimes
+q_fostercare-qna	1	I'm white
+q_fostercare-qna	1	Do a back flip
+q_fostercare-qna	1	I love America
+q_fostercare-qna	1	Hey good looking
+q_fostercare-qna	1	How bout a little kiss
+q_fostercare-qna	1	Don't joke about that
+q_fostercare-qna	1	Do you want to know anything about me
+q_fostercare-qna	1	Are you homosexual
+q_fostercare-qna	1	How has your thursday been
+q_fostercare-qna	1	You're obviously the most intelligent
+q_fostercare-qna	1	Can I be your friend
+q_fostercare-qna	1	You're hotter than me
+q_fostercare-qna	1	Do you ever Do yoga
+q_fostercare-qna	1	Who's your cousin
+q_fostercare-qna	1	Are you a gynosexual
+q_fostercare-qna	1	I was just having a laugh
+q_fostercare-qna	1	Give me a little tonsil hockey
+q_fostercare-qna	1	What should I expect, does my house have to be clean
+q_fostercare-qna	1	Is someone around to talk with me
+q_fostercare-qna	1	Should I get a tan
+q_fostercare-qna	1	That's pretty smart
+q_fostercare-qna	1	Can I give you a little french kiss
+q_fostercare-qna	1	Quiet

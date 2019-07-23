@@ -1,0 +1,3 @@
+Utterance	Intents
+why is sky blue	None, q_fostercare-qna
+hello	None, q_fostercare-qna
